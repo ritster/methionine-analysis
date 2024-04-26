@@ -1,0 +1,997 @@
+data_AF-B1AXP6-F1
+#
+_entry.id AF-B1AXP6-F1
+#
+loop_
+_atom_type.symbol
+C 
+N 
+O 
+S 
+#
+loop_
+_audit_author.name
+_audit_author.pdbx_ordinal
+"Jumper, John"               1  
+"Evans, Richard"             2  
+"Pritzel, Alexander"         3  
+"Green, Tim"                 4  
+"Figurnov, Michael"          5  
+"Ronneberger, Olaf"          6  
+"Tunyasuvunakool, Kathryn"   7  
+"Bates, Russ"                8  
+"Zidek, Augustin"            9  
+"Potapenko, Anna"            10 
+"Bridgland, Alex"            11 
+"Meyer, Clemens"             12 
+"Kohl, Simon A. A."          13 
+"Ballard, Andrew J."         14 
+"Cowie, Andrew"              15 
+"Romera-Paredes, Bernardino" 16 
+"Nikolov, Stanislav"         17 
+"Jain, Rishub"               18 
+"Adler, Jonas"               19 
+"Back, Trevor"               20 
+"Petersen, Stig"             21 
+"Reiman, David"              22 
+"Clancy, Ellen"              23 
+"Zielinski, Michal"          24 
+"Steinegger, Martin"         25 
+"Pacholska, Michalina"       26 
+"Berghammer, Tamas"          27 
+"Silver, David"              28 
+"Vinyals, Oriol"             29 
+"Senior, Andrew W."          30 
+"Kavukcuoglu, Koray"         31 
+"Kohli, Pushmeet"            32 
+"Hassabis, Demis"            33 
+#
+_audit_conform.dict_location https://raw.githubusercontent.com/ihmwg/ModelCIF/master/dist/mmcif_ma.dic
+_audit_conform.dict_name     mmcif_ma.dic
+_audit_conform.dict_version  1.3.9
+#
+loop_
+_chem_comp.formula
+_chem_comp.formula_weight
+_chem_comp.id
+_chem_comp.mon_nstd_flag
+_chem_comp.name
+_chem_comp.pdbx_synonyms
+_chem_comp.type
+"C3 H7 N O2"    89.093  ALA y ALANINE         ? "L-PEPTIDE LINKING" 
+"C6 H15 N4 O2"  175.209 ARG y ARGININE        ? "L-PEPTIDE LINKING" 
+"C4 H8 N2 O3"   132.118 ASN y ASPARAGINE      ? "L-PEPTIDE LINKING" 
+"C4 H7 N O4"    133.103 ASP y "ASPARTIC ACID" ? "L-PEPTIDE LINKING" 
+"C5 H9 N O4"    147.129 GLU y "GLUTAMIC ACID" ? "L-PEPTIDE LINKING" 
+"C2 H5 N O2"    75.067  GLY y GLYCINE         ? "PEPTIDE LINKING"   
+"C6 H13 N O2"   131.173 ILE y ISOLEUCINE      ? "L-PEPTIDE LINKING" 
+"C6 H13 N O2"   131.173 LEU y LEUCINE         ? "L-PEPTIDE LINKING" 
+"C6 H15 N2 O2"  147.195 LYS y LYSINE          ? "L-PEPTIDE LINKING" 
+"C5 H11 N O2 S" 149.211 MET y METHIONINE      ? "L-PEPTIDE LINKING" 
+"C9 H11 N O2"   165.189 PHE y PHENYLALANINE   ? "L-PEPTIDE LINKING" 
+"C5 H9 N O2"    115.130 PRO y PROLINE         ? "L-PEPTIDE LINKING" 
+"C3 H7 N O3"    105.093 SER y SERINE          ? "L-PEPTIDE LINKING" 
+"C4 H9 N O3"    119.119 THR y THREONINE       ? "L-PEPTIDE LINKING" 
+"C9 H11 N O3"   181.189 TYR y TYROSINE        ? "L-PEPTIDE LINKING" 
+"C5 H11 N O2"   117.146 VAL y VALINE          ? "L-PEPTIDE LINKING" 
+#
+_citation.book_publisher          ?
+_citation.country                 UK
+_citation.id                      primary
+_citation.journal_full            Nature
+_citation.journal_id_ASTM         NATUAS
+_citation.journal_id_CSD          0006
+_citation.journal_id_ISSN         0028-0836
+_citation.journal_volume          596
+_citation.page_first              583
+_citation.page_last               589
+_citation.pdbx_database_id_DOI    10.1038/s41586-021-03819-2
+_citation.pdbx_database_id_PubMed 34265844
+_citation.title                   "Highly accurate protein structure prediction with AlphaFold"
+_citation.year                    2021
+#
+loop_
+_citation_author.citation_id
+_citation_author.name
+_citation_author.ordinal
+1 "Jumper, John"               1  
+1 "Evans, Richard"             2  
+1 "Pritzel, Alexander"         3  
+1 "Green, Tim"                 4  
+1 "Figurnov, Michael"          5  
+1 "Ronneberger, Olaf"          6  
+1 "Tunyasuvunakool, Kathryn"   7  
+1 "Bates, Russ"                8  
+1 "Zidek, Augustin"            9  
+1 "Potapenko, Anna"            10 
+1 "Bridgland, Alex"            11 
+1 "Meyer, Clemens"             12 
+1 "Kohl, Simon A. A."          13 
+1 "Ballard, Andrew J."         14 
+1 "Cowie, Andrew"              15 
+1 "Romera-Paredes, Bernardino" 16 
+1 "Nikolov, Stanislav"         17 
+1 "Jain, Rishub"               18 
+1 "Adler, Jonas"               19 
+1 "Back, Trevor"               20 
+1 "Petersen, Stig"             21 
+1 "Reiman, David"              22 
+1 "Clancy, Ellen"              23 
+1 "Zielinski, Michal"          24 
+1 "Steinegger, Martin"         25 
+1 "Pacholska, Michalina"       26 
+1 "Berghammer, Tamas"          27 
+1 "Silver, David"              28 
+1 "Vinyals, Oriol"             29 
+1 "Senior, Andrew W."          30 
+1 "Kavukcuoglu, Koray"         31 
+1 "Kohli, Pushmeet"            32 
+1 "Hassabis, Demis"            33 
+#
+_database_2.database_code AF-B1AXP6-F1
+_database_2.database_id   AlphaFoldDB
+#
+_entity.details                  ?
+_entity.formula_weight           ?
+_entity.id                       1
+_entity.pdbx_description         "Mitochondrial import receptor subunit TOM5 homolog"
+_entity.pdbx_ec                  ?
+_entity.pdbx_fragment            ?
+_entity.pdbx_mutation            ?
+_entity.pdbx_number_of_molecules 1
+_entity.src_method               man
+_entity.type                     polymer
+#
+_entity_poly.entity_id                    1
+_entity_poly.nstd_linkage                 no
+_entity_poly.nstd_monomer                 no
+_entity_poly.pdbx_seq_one_letter_code     MFRIEGLAPKLDPEEMKRKMREDVVSSIRNFLIYVALLRVTPYILKKLDSI
+_entity_poly.pdbx_seq_one_letter_code_can MFRIEGLAPKLDPEEMKRKMREDVVSSIRNFLIYVALLRVTPYILKKLDSI
+_entity_poly.pdbx_strand_id               A
+_entity_poly.type                         polypeptide(L)
+#
+loop_
+_entity_poly_seq.entity_id
+_entity_poly_seq.hetero
+_entity_poly_seq.mon_id
+_entity_poly_seq.num
+1 n MET 1  
+1 n PHE 2  
+1 n ARG 3  
+1 n ILE 4  
+1 n GLU 5  
+1 n GLY 6  
+1 n LEU 7  
+1 n ALA 8  
+1 n PRO 9  
+1 n LYS 10 
+1 n LEU 11 
+1 n ASP 12 
+1 n PRO 13 
+1 n GLU 14 
+1 n GLU 15 
+1 n MET 16 
+1 n LYS 17 
+1 n ARG 18 
+1 n LYS 19 
+1 n MET 20 
+1 n ARG 21 
+1 n GLU 22 
+1 n ASP 23 
+1 n VAL 24 
+1 n VAL 25 
+1 n SER 26 
+1 n SER 27 
+1 n ILE 28 
+1 n ARG 29 
+1 n ASN 30 
+1 n PHE 31 
+1 n LEU 32 
+1 n ILE 33 
+1 n TYR 34 
+1 n VAL 35 
+1 n ALA 36 
+1 n LEU 37 
+1 n LEU 38 
+1 n ARG 39 
+1 n VAL 40 
+1 n THR 41 
+1 n PRO 42 
+1 n TYR 43 
+1 n ILE 44 
+1 n LEU 45 
+1 n LYS 46 
+1 n LYS 47 
+1 n LEU 48 
+1 n ASP 49 
+1 n SER 50 
+1 n ILE 51 
+#
+loop_
+_ma_data.content_type
+_ma_data.id
+_ma_data.name
+"model coordinates" 1 Model             
+"input structure"   2 "Input structure" 
+#
+_ma_model_list.data_id          1
+_ma_model_list.model_group_id   1
+_ma_model_list.model_group_name "AlphaFold Monomer v2.0 model"
+_ma_model_list.model_id         1
+_ma_model_list.model_name       "Top ranked model"
+_ma_model_list.model_type       "Ab initio model"
+_ma_model_list.ordinal_id       1
+#
+loop_
+_ma_protocol_step.method_type
+_ma_protocol_step.ordinal_id
+_ma_protocol_step.protocol_id
+_ma_protocol_step.step_id
+"coevolution MSA" 1 1 1 
+"template search" 2 1 2 
+modeling          3 1 3 
+#
+loop_
+_ma_qa_metric.id
+_ma_qa_metric.mode
+_ma_qa_metric.name
+_ma_qa_metric.software_group_id
+_ma_qa_metric.type
+1 global pLDDT 1 pLDDT 
+2 local  pLDDT 1 pLDDT 
+#
+_ma_qa_metric_global.metric_id    1
+_ma_qa_metric_global.metric_value 88.80
+_ma_qa_metric_global.model_id     1
+_ma_qa_metric_global.ordinal_id   1
+#
+loop_
+_ma_qa_metric_local.label_asym_id
+_ma_qa_metric_local.label_comp_id
+_ma_qa_metric_local.label_seq_id
+_ma_qa_metric_local.metric_id
+_ma_qa_metric_local.metric_value
+_ma_qa_metric_local.model_id
+_ma_qa_metric_local.ordinal_id
+A MET 1  2 57.62 1 1  
+A PHE 2  2 61.29 1 2  
+A ARG 3  2 60.88 1 3  
+A ILE 4  2 68.24 1 4  
+A GLU 5  2 62.03 1 5  
+A GLY 6  2 60.55 1 6  
+A LEU 7  2 61.19 1 7  
+A ALA 8  2 66.17 1 8  
+A PRO 9  2 64.07 1 9  
+A LYS 10 2 69.90 1 10 
+A LEU 11 2 72.51 1 11 
+A ASP 12 2 87.01 1 12 
+A PRO 13 2 88.59 1 13 
+A GLU 14 2 91.61 1 14 
+A GLU 15 2 91.13 1 15 
+A MET 16 2 90.70 1 16 
+A LYS 17 2 93.18 1 17 
+A ARG 18 2 94.54 1 18 
+A LYS 19 2 94.73 1 19 
+A MET 20 2 95.09 1 20 
+A ARG 21 2 95.29 1 21 
+A GLU 22 2 97.19 1 22 
+A ASP 23 2 97.71 1 23 
+A VAL 24 2 97.27 1 24 
+A VAL 25 2 97.52 1 25 
+A SER 26 2 97.47 1 26 
+A SER 27 2 97.90 1 27 
+A ILE 28 2 98.00 1 28 
+A ARG 29 2 98.12 1 29 
+A ASN 30 2 97.94 1 30 
+A PHE 31 2 98.01 1 31 
+A LEU 32 2 98.27 1 32 
+A ILE 33 2 98.14 1 33 
+A TYR 34 2 98.01 1 34 
+A VAL 35 2 98.33 1 35 
+A ALA 36 2 98.25 1 36 
+A LEU 37 2 98.06 1 37 
+A LEU 38 2 97.64 1 38 
+A ARG 39 2 97.04 1 39 
+A VAL 40 2 96.95 1 40 
+A THR 41 2 97.33 1 41 
+A PRO 42 2 96.38 1 42 
+A TYR 43 2 95.60 1 43 
+A ILE 44 2 94.88 1 44 
+A LEU 45 2 96.04 1 45 
+A LYS 46 2 95.71 1 46 
+A LYS 47 2 94.89 1 47 
+A LEU 48 2 95.05 1 48 
+A ASP 49 2 93.19 1 49 
+A SER 50 2 91.12 1 50 
+A ILE 51 2 83.70 1 51 
+#
+_ma_software_group.group_id    1
+_ma_software_group.ordinal_id  1
+_ma_software_group.software_id 1
+#
+_ma_target_entity.data_id   1
+_ma_target_entity.entity_id 1
+_ma_target_entity.origin    "reference database"
+#
+_ma_target_entity_instance.asym_id   A
+_ma_target_entity_instance.details   .
+_ma_target_entity_instance.entity_id 1
+#
+_ma_target_ref_db_details.db_accession                 B1AXP6
+_ma_target_ref_db_details.db_code                      TOM5_MOUSE
+_ma_target_ref_db_details.db_name                      UNP
+_ma_target_ref_db_details.gene_name                    Tomm5
+_ma_target_ref_db_details.ncbi_taxonomy_id             10090
+_ma_target_ref_db_details.organism_scientific          "Mus musculus"
+_ma_target_ref_db_details.seq_db_align_begin           1
+_ma_target_ref_db_details.seq_db_align_end             51
+_ma_target_ref_db_details.seq_db_isoform               ?
+_ma_target_ref_db_details.seq_db_sequence_checksum     43F11A266854B0FE
+_ma_target_ref_db_details.seq_db_sequence_version_date 2008-04-08
+_ma_target_ref_db_details.target_entity_id             1
+#
+loop_
+_ma_template_details.ordinal_id
+_ma_template_details.target_asym_id
+_ma_template_details.template_auth_asym_id
+_ma_template_details.template_data_id
+_ma_template_details.template_entity_type
+_ma_template_details.template_id
+_ma_template_details.template_model_num
+_ma_template_details.template_origin
+_ma_template_details.template_trans_matrix_id
+1 A I 2 polymer 1 1 "reference database" 1 
+2 A K 2 polymer 2 1 "reference database" 1 
+3 A A 2 polymer 3 1 "reference database" 1 
+4 A A 2 polymer 4 1 "reference database" 1 
+#
+loop_
+_ma_template_ref_db_details.db_accession_code
+_ma_template_ref_db_details.db_name
+_ma_template_ref_db_details.template_id
+7CK6 PDB 1 
+6UCU PDB 2 
+2P6V PDB 3 
+2KNH PDB 4 
+#
+_ma_template_trans_matrix.id               1
+_ma_template_trans_matrix.rot_matrix[1][1] 1.0
+_ma_template_trans_matrix.rot_matrix[1][2] 0.0
+_ma_template_trans_matrix.rot_matrix[1][3] 0.0
+_ma_template_trans_matrix.rot_matrix[2][1] 0.0
+_ma_template_trans_matrix.rot_matrix[2][2] 1.0
+_ma_template_trans_matrix.rot_matrix[2][3] 0.0
+_ma_template_trans_matrix.rot_matrix[3][1] 0.0
+_ma_template_trans_matrix.rot_matrix[3][2] 0.0
+_ma_template_trans_matrix.rot_matrix[3][3] 1.0
+_ma_template_trans_matrix.tr_vector[1]     0.0
+_ma_template_trans_matrix.tr_vector[2]     0.0
+_ma_template_trans_matrix.tr_vector[3]     0.0
+#
+loop_
+_pdbx_audit_revision_details.data_content_type
+_pdbx_audit_revision_details.description
+_pdbx_audit_revision_details.ordinal
+_pdbx_audit_revision_details.provider
+_pdbx_audit_revision_details.revision_ordinal
+_pdbx_audit_revision_details.type
+"Structure model" ?                                                       1 repository 1 "Initial release" 
+"Structure model" "Format fixes, new metadata, initial SwissProt release" 2 repository 2 Remediation       
+"Structure model" "Format fixes, new metadata, initial UniProt release"   3 repository 3 Remediation       
+"Structure model" "Improved prediction accuracy, small format fixes"      4 repository 4 Remediation       
+#
+loop_
+_pdbx_audit_revision_history.data_content_type
+_pdbx_audit_revision_history.major_revision
+_pdbx_audit_revision_history.minor_revision
+_pdbx_audit_revision_history.ordinal
+_pdbx_audit_revision_history.revision_date
+"Structure model" 1 0 1 2021-07-01 
+"Structure model" 2 0 2 2021-12-09 
+"Structure model" 3 0 3 2022-06-01 
+"Structure model" 4 0 4 2022-09-30 
+#
+loop_
+_pdbx_data_usage.details
+_pdbx_data_usage.id
+_pdbx_data_usage.name
+_pdbx_data_usage.type
+_pdbx_data_usage.url
+"Data in this file is available under a CC-BY-4.0 license." 1 CC-BY-4.0 license    https://creativecommons.org/licenses/by/4.0/ 
+;ALPHAFOLD DATA, COPYRIGHT (2021) DEEPMIND TECHNOLOGIES LIMITED. THE INFORMATION
+PROVIDED IS THEORETICAL MODELLING ONLY AND CAUTION SHOULD BE EXERCISED IN ITS
+USE. IT IS PROVIDED "AS-IS" WITHOUT ANY WARRANTY OF ANY KIND, WHETHER EXPRESSED
+OR IMPLIED. NO WARRANTY IS GIVEN THAT USE OF THE INFORMATION SHALL NOT INFRINGE
+THE RIGHTS OF ANY THIRD PARTY. DISCLAIMER: THE INFORMATION IS NOT INTENDED TO BE
+A SUBSTITUTE FOR PROFESSIONAL MEDICAL ADVICE, DIAGNOSIS, OR TREATMENT, AND DOES
+NOT CONSTITUTE MEDICAL OR OTHER PROFESSIONAL ADVICE. IT IS AVAILABLE FOR
+ACADEMIC AND COMMERCIAL PURPOSES, UNDER CC-BY 4.0 LICENCE.
+;
+2 ?         disclaimer ?                                            
+#
+_pdbx_database_status.entry_id                      AF-B1AXP6-F1
+_pdbx_database_status.recvd_initial_deposition_date 2022-06-01
+_pdbx_database_status.status_code                   REL
+#
+loop_
+_pdbx_poly_seq_scheme.asym_id
+_pdbx_poly_seq_scheme.auth_seq_num
+_pdbx_poly_seq_scheme.entity_id
+_pdbx_poly_seq_scheme.hetero
+_pdbx_poly_seq_scheme.mon_id
+_pdbx_poly_seq_scheme.pdb_ins_code
+_pdbx_poly_seq_scheme.pdb_mon_id
+_pdbx_poly_seq_scheme.pdb_seq_num
+_pdbx_poly_seq_scheme.pdb_strand_id
+_pdbx_poly_seq_scheme.seq_id
+A 1  1 n MET . MET 1  A 1  
+A 2  1 n PHE . PHE 2  A 2  
+A 3  1 n ARG . ARG 3  A 3  
+A 4  1 n ILE . ILE 4  A 4  
+A 5  1 n GLU . GLU 5  A 5  
+A 6  1 n GLY . GLY 6  A 6  
+A 7  1 n LEU . LEU 7  A 7  
+A 8  1 n ALA . ALA 8  A 8  
+A 9  1 n PRO . PRO 9  A 9  
+A 10 1 n LYS . LYS 10 A 10 
+A 11 1 n LEU . LEU 11 A 11 
+A 12 1 n ASP . ASP 12 A 12 
+A 13 1 n PRO . PRO 13 A 13 
+A 14 1 n GLU . GLU 14 A 14 
+A 15 1 n GLU . GLU 15 A 15 
+A 16 1 n MET . MET 16 A 16 
+A 17 1 n LYS . LYS 17 A 17 
+A 18 1 n ARG . ARG 18 A 18 
+A 19 1 n LYS . LYS 19 A 19 
+A 20 1 n MET . MET 20 A 20 
+A 21 1 n ARG . ARG 21 A 21 
+A 22 1 n GLU . GLU 22 A 22 
+A 23 1 n ASP . ASP 23 A 23 
+A 24 1 n VAL . VAL 24 A 24 
+A 25 1 n VAL . VAL 25 A 25 
+A 26 1 n SER . SER 26 A 26 
+A 27 1 n SER . SER 27 A 27 
+A 28 1 n ILE . ILE 28 A 28 
+A 29 1 n ARG . ARG 29 A 29 
+A 30 1 n ASN . ASN 30 A 30 
+A 31 1 n PHE . PHE 31 A 31 
+A 32 1 n LEU . LEU 32 A 32 
+A 33 1 n ILE . ILE 33 A 33 
+A 34 1 n TYR . TYR 34 A 34 
+A 35 1 n VAL . VAL 35 A 35 
+A 36 1 n ALA . ALA 36 A 36 
+A 37 1 n LEU . LEU 37 A 37 
+A 38 1 n LEU . LEU 38 A 38 
+A 39 1 n ARG . ARG 39 A 39 
+A 40 1 n VAL . VAL 40 A 40 
+A 41 1 n THR . THR 41 A 41 
+A 42 1 n PRO . PRO 42 A 42 
+A 43 1 n TYR . TYR 43 A 43 
+A 44 1 n ILE . ILE 44 A 44 
+A 45 1 n LEU . LEU 45 A 45 
+A 46 1 n LYS . LYS 46 A 46 
+A 47 1 n LYS . LYS 47 A 47 
+A 48 1 n LEU . LEU 48 A 48 
+A 49 1 n ASP . ASP 49 A 49 
+A 50 1 n SER . SER 50 A 50 
+A 51 1 n ILE . ILE 51 A 51 
+#
+loop_
+_software.classification
+_software.date
+_software.description
+_software.name
+_software.pdbx_ordinal
+_software.type
+_software.version
+other ? "Structure prediction" AlphaFold 1 package v2.0 
+other ? "Secondary structure"  dssp      2 library 4    
+#
+_struct_asym.entity_id 1
+_struct_asym.id        A
+#
+loop_
+_struct_conf.beg_auth_asym_id
+_struct_conf.beg_auth_comp_id
+_struct_conf.beg_auth_seq_id
+_struct_conf.beg_label_asym_id
+_struct_conf.beg_label_comp_id
+_struct_conf.beg_label_seq_id
+_struct_conf.conf_type_id
+_struct_conf.end_auth_asym_id
+_struct_conf.end_auth_comp_id
+_struct_conf.end_auth_seq_id
+_struct_conf.end_label_asym_id
+_struct_conf.end_label_comp_id
+_struct_conf.end_label_seq_id
+_struct_conf.id
+_struct_conf.pdbx_beg_PDB_ins_code
+_struct_conf.pdbx_end_PDB_ins_code
+A GLY 6  A GLY 6  BEND         A GLY 6  A GLY 6  BEND1         ? ? 
+A ALA 8  A ALA 8  BEND         A ALA 8  A ALA 8  BEND2         ? ? 
+A PRO 13 A PRO 13 HELX_RH_AL_P A ASP 49 A ASP 49 HELX_RH_AL_P1 ? ? 
+A SER 50 A SER 50 TURN_TY1_P   A SER 50 A SER 50 TURN_TY1_P1   ? ? 
+#
+loop_
+_struct_conf_type.criteria
+_struct_conf_type.id
+DSSP BEND         
+DSSP HELX_RH_AL_P 
+DSSP TURN_TY1_P   
+#
+_struct_ref.db_code                  TOM5_MOUSE
+_struct_ref.db_name                  UNP
+_struct_ref.entity_id                1
+_struct_ref.id                       1
+_struct_ref.pdbx_align_begin         1
+_struct_ref.pdbx_align_end           51
+_struct_ref.pdbx_db_accession        B1AXP6
+_struct_ref.pdbx_db_isoform          ?
+_struct_ref.pdbx_seq_one_letter_code MFRIEGLAPKLDPEEMKRKMREDVVSSIRNFLIYVALLRVTPYILKKLDSI
+#
+_struct_ref_seq.align_id                    1
+_struct_ref_seq.db_align_beg                1
+_struct_ref_seq.db_align_end                51
+_struct_ref_seq.pdbx_PDB_id_code            AF-B1AXP6-F1
+_struct_ref_seq.pdbx_auth_seq_align_beg     1
+_struct_ref_seq.pdbx_auth_seq_align_end     51
+_struct_ref_seq.pdbx_db_accession           B1AXP6
+_struct_ref_seq.pdbx_db_align_beg_ins_code  ?
+_struct_ref_seq.pdbx_db_align_end_ins_code  ?
+_struct_ref_seq.pdbx_seq_align_beg_ins_code ?
+_struct_ref_seq.pdbx_seq_align_end_ins_code ?
+_struct_ref_seq.pdbx_strand_id              A
+_struct_ref_seq.ref_id                      1
+_struct_ref_seq.seq_align_beg               1
+_struct_ref_seq.seq_align_end               51
+#
+loop_
+_atom_site.group_PDB
+_atom_site.id
+_atom_site.type_symbol
+_atom_site.label_atom_id
+_atom_site.label_alt_id
+_atom_site.label_comp_id
+_atom_site.label_asym_id
+_atom_site.label_entity_id
+_atom_site.label_seq_id
+_atom_site.pdbx_PDB_ins_code
+_atom_site.Cartn_x
+_atom_site.Cartn_y
+_atom_site.Cartn_z
+_atom_site.occupancy
+_atom_site.B_iso_or_equiv
+_atom_site.pdbx_formal_charge
+_atom_site.auth_seq_id
+_atom_site.auth_comp_id
+_atom_site.auth_asym_id
+_atom_site.auth_atom_id
+_atom_site.pdbx_PDB_model_num
+_atom_site.pdbx_sifts_xref_db_acc
+_atom_site.pdbx_sifts_xref_db_name
+_atom_site.pdbx_sifts_xref_db_num
+_atom_site.pdbx_sifts_xref_db_res
+ATOM 1   N N   . MET A 1 1  ? 36.221  -15.268 -21.013 1.0 57.62 ? 1  MET A N   1 B1AXP6 UNP 1  M 
+ATOM 2   C CA  . MET A 1 1  ? 35.094  -14.651 -20.281 1.0 57.62 ? 1  MET A CA  1 B1AXP6 UNP 1  M 
+ATOM 3   C C   . MET A 1 1  ? 34.616  -13.468 -21.113 1.0 57.62 ? 1  MET A C   1 B1AXP6 UNP 1  M 
+ATOM 4   C CB  . MET A 1 1  ? 35.569  -14.255 -18.869 1.0 57.62 ? 1  MET A CB  1 B1AXP6 UNP 1  M 
+ATOM 5   O O   . MET A 1 1  ? 35.311  -12.462 -21.161 1.0 57.62 ? 1  MET A O   1 B1AXP6 UNP 1  M 
+ATOM 6   C CG  . MET A 1 1  ? 34.462  -13.806 -17.912 1.0 57.62 ? 1  MET A CG  1 B1AXP6 UNP 1  M 
+ATOM 7   S SD  . MET A 1 1  ? 35.112  -13.525 -16.243 1.0 57.62 ? 1  MET A SD  1 B1AXP6 UNP 1  M 
+ATOM 8   C CE  . MET A 1 1  ? 33.628  -12.934 -15.385 1.0 57.62 ? 1  MET A CE  1 B1AXP6 UNP 1  M 
+ATOM 9   N N   . PHE A 1 2  ? 33.541  -13.622 -21.891 1.0 61.29 ? 2  PHE A N   1 B1AXP6 UNP 2  F 
+ATOM 10  C CA  . PHE A 1 2  ? 33.037  -12.532 -22.733 1.0 61.29 ? 2  PHE A CA  1 B1AXP6 UNP 2  F 
+ATOM 11  C C   . PHE A 1 2  ? 32.445  -11.443 -21.833 1.0 61.29 ? 2  PHE A C   1 B1AXP6 UNP 2  F 
+ATOM 12  C CB  . PHE A 1 2  ? 32.018  -13.059 -23.759 1.0 61.29 ? 2  PHE A CB  1 B1AXP6 UNP 2  F 
+ATOM 13  O O   . PHE A 1 2  ? 31.480  -11.687 -21.112 1.0 61.29 ? 2  PHE A O   1 B1AXP6 UNP 2  F 
+ATOM 14  C CG  . PHE A 1 2  ? 32.657  -13.661 -24.999 1.0 61.29 ? 2  PHE A CG  1 B1AXP6 UNP 2  F 
+ATOM 15  C CD1 . PHE A 1 2  ? 32.958  -12.835 -26.100 1.0 61.29 ? 2  PHE A CD1 1 B1AXP6 UNP 2  F 
+ATOM 16  C CD2 . PHE A 1 2  ? 32.951  -15.038 -25.064 1.0 61.29 ? 2  PHE A CD2 1 B1AXP6 UNP 2  F 
+ATOM 17  C CE1 . PHE A 1 2  ? 33.554  -13.377 -27.252 1.0 61.29 ? 2  PHE A CE1 1 B1AXP6 UNP 2  F 
+ATOM 18  C CE2 . PHE A 1 2  ? 33.552  -15.579 -26.216 1.0 61.29 ? 2  PHE A CE2 1 B1AXP6 UNP 2  F 
+ATOM 19  C CZ  . PHE A 1 2  ? 33.856  -14.748 -27.309 1.0 61.29 ? 2  PHE A CZ  1 B1AXP6 UNP 2  F 
+ATOM 20  N N   . ARG A 1 3  ? 33.063  -10.259 -21.840 1.0 60.88 ? 3  ARG A N   1 B1AXP6 UNP 3  R 
+ATOM 21  C CA  . ARG A 1 3  ? 32.563  -9.069  -21.148 1.0 60.88 ? 3  ARG A CA  1 B1AXP6 UNP 3  R 
+ATOM 22  C C   . ARG A 1 3  ? 31.362  -8.550  -21.930 1.0 60.88 ? 3  ARG A C   1 B1AXP6 UNP 3  R 
+ATOM 23  C CB  . ARG A 1 3  ? 33.669  -7.997  -21.027 1.0 60.88 ? 3  ARG A CB  1 B1AXP6 UNP 3  R 
+ATOM 24  O O   . ARG A 1 3  ? 31.520  -7.849  -22.923 1.0 60.88 ? 3  ARG A O   1 B1AXP6 UNP 3  R 
+ATOM 25  C CG  . ARG A 1 3  ? 34.840  -8.441  -20.135 1.0 60.88 ? 3  ARG A CG  1 B1AXP6 UNP 3  R 
+ATOM 26  C CD  . ARG A 1 3  ? 35.948  -7.380  -20.039 1.0 60.88 ? 3  ARG A CD  1 B1AXP6 UNP 3  R 
+ATOM 27  N NE  . ARG A 1 3  ? 35.596  -6.261  -19.142 1.0 60.88 ? 3  ARG A NE  1 B1AXP6 UNP 3  R 
+ATOM 28  N NH1 . ARG A 1 3  ? 37.660  -5.845  -18.223 1.0 60.88 ? 3  ARG A NH1 1 B1AXP6 UNP 3  R 
+ATOM 29  N NH2 . ARG A 1 3  ? 35.901  -4.716  -17.493 1.0 60.88 ? 3  ARG A NH2 1 B1AXP6 UNP 3  R 
+ATOM 30  C CZ  . ARG A 1 3  ? 36.375  -5.618  -18.293 1.0 60.88 ? 3  ARG A CZ  1 B1AXP6 UNP 3  R 
+ATOM 31  N N   . ILE A 1 4  ? 30.156  -8.915  -21.508 1.0 68.24 ? 4  ILE A N   1 B1AXP6 UNP 4  I 
+ATOM 32  C CA  . ILE A 1 4  ? 28.933  -8.270  -21.991 1.0 68.24 ? 4  ILE A CA  1 B1AXP6 UNP 4  I 
+ATOM 33  C C   . ILE A 1 4  ? 28.763  -6.963  -21.203 1.0 68.24 ? 4  ILE A C   1 B1AXP6 UNP 4  I 
+ATOM 34  C CB  . ILE A 1 4  ? 27.719  -9.225  -21.932 1.0 68.24 ? 4  ILE A CB  1 B1AXP6 UNP 4  I 
+ATOM 35  O O   . ILE A 1 4  ? 27.887  -6.830  -20.359 1.0 68.24 ? 4  ILE A O   1 B1AXP6 UNP 4  I 
+ATOM 36  C CG1 . ILE A 1 4  ? 28.009  -10.548 -22.682 1.0 68.24 ? 4  ILE A CG1 1 B1AXP6 UNP 4  I 
+ATOM 37  C CG2 . ILE A 1 4  ? 26.498  -8.534  -22.552 1.0 68.24 ? 4  ILE A CG2 1 B1AXP6 UNP 4  I 
+ATOM 38  C CD1 . ILE A 1 4  ? 26.791  -11.460 -22.896 1.0 68.24 ? 4  ILE A CD1 1 B1AXP6 UNP 4  I 
+ATOM 39  N N   . GLU A 1 5  ? 29.647  -5.993  -21.441 1.0 62.03 ? 5  GLU A N   1 B1AXP6 UNP 5  E 
+ATOM 40  C CA  . GLU A 1 5  ? 29.559  -4.650  -20.838 1.0 62.03 ? 5  GLU A CA  1 B1AXP6 UNP 5  E 
+ATOM 41  C C   . GLU A 1 5  ? 28.668  -3.692  -21.649 1.0 62.03 ? 5  GLU A C   1 B1AXP6 UNP 5  E 
+ATOM 42  C CB  . GLU A 1 5  ? 30.970  -4.088  -20.593 1.0 62.03 ? 5  GLU A CB  1 B1AXP6 UNP 5  E 
+ATOM 43  O O   . GLU A 1 5  ? 28.538  -2.522  -21.308 1.0 62.03 ? 5  GLU A O   1 B1AXP6 UNP 5  E 
+ATOM 44  C CG  . GLU A 1 5  ? 31.566  -4.705  -19.322 1.0 62.03 ? 5  GLU A CG  1 B1AXP6 UNP 5  E 
+ATOM 45  C CD  . GLU A 1 5  ? 32.996  -4.236  -19.061 1.0 62.03 ? 5  GLU A CD  1 B1AXP6 UNP 5  E 
+ATOM 46  O OE1 . GLU A 1 5  ? 33.346  -3.971  -17.892 1.0 62.03 ? 5  GLU A OE1 1 B1AXP6 UNP 5  E 
+ATOM 47  O OE2 . GLU A 1 5  ? 33.832  -4.337  -19.983 1.0 62.03 ? 5  GLU A OE2 1 B1AXP6 UNP 5  E 
+ATOM 48  N N   . GLY A 1 6  ? 28.024  -4.180  -22.717 1.0 60.55 ? 6  GLY A N   1 B1AXP6 UNP 6  G 
+ATOM 49  C CA  . GLY A 1 6  ? 27.239  -3.358  -23.646 1.0 60.55 ? 6  GLY A CA  1 B1AXP6 UNP 6  G 
+ATOM 50  C C   . GLY A 1 6  ? 25.733  -3.629  -23.689 1.0 60.55 ? 6  GLY A C   1 B1AXP6 UNP 6  G 
+ATOM 51  O O   . GLY A 1 6  ? 25.038  -2.928  -24.415 1.0 60.55 ? 6  GLY A O   1 B1AXP6 UNP 6  G 
+ATOM 52  N N   . LEU A 1 7  ? 25.216  -4.623  -22.953 1.0 61.19 ? 7  LEU A N   1 B1AXP6 UNP 7  L 
+ATOM 53  C CA  . LEU A 1 7  ? 23.783  -4.977  -22.967 1.0 61.19 ? 7  LEU A CA  1 B1AXP6 UNP 7  L 
+ATOM 54  C C   . LEU A 1 7  ? 22.988  -4.419  -21.784 1.0 61.19 ? 7  LEU A C   1 B1AXP6 UNP 7  L 
+ATOM 55  C CB  . LEU A 1 7  ? 23.563  -6.500  -23.119 1.0 61.19 ? 7  LEU A CB  1 B1AXP6 UNP 7  L 
+ATOM 56  O O   . LEU A 1 7  ? 21.851  -4.834  -21.588 1.0 61.19 ? 7  LEU A O   1 B1AXP6 UNP 7  L 
+ATOM 57  C CG  . LEU A 1 7  ? 23.725  -7.064  -24.539 1.0 61.19 ? 7  LEU A CG  1 B1AXP6 UNP 7  L 
+ATOM 58  C CD1 . LEU A 1 7  ? 23.505  -8.578  -24.525 1.0 61.19 ? 7  LEU A CD1 1 B1AXP6 UNP 7  L 
+ATOM 59  C CD2 . LEU A 1 7  ? 22.683  -6.501  -25.509 1.0 61.19 ? 7  LEU A CD2 1 B1AXP6 UNP 7  L 
+ATOM 60  N N   . ALA A 1 8  ? 23.519  -3.475  -21.003 1.0 66.17 ? 8  ALA A N   1 B1AXP6 UNP 8  A 
+ATOM 61  C CA  . ALA A 1 8  ? 22.607  -2.622  -20.252 1.0 66.17 ? 8  ALA A CA  1 B1AXP6 UNP 8  A 
+ATOM 62  C C   . ALA A 1 8  ? 21.848  -1.812  -21.310 1.0 66.17 ? 8  ALA A C   1 B1AXP6 UNP 8  A 
+ATOM 63  C CB  . ALA A 1 8  ? 23.387  -1.743  -19.266 1.0 66.17 ? 8  ALA A CB  1 B1AXP6 UNP 8  A 
+ATOM 64  O O   . ALA A 1 8  ? 22.498  -1.025  -22.010 1.0 66.17 ? 8  ALA A O   1 B1AXP6 UNP 8  A 
+ATOM 65  N N   . PRO A 1 9  ? 20.523  -1.998  -21.498 1.0 64.07 ? 9  PRO A N   1 B1AXP6 UNP 9  P 
+ATOM 66  C CA  . PRO A 1 9  ? 19.780  -1.063  -22.316 1.0 64.07 ? 9  PRO A CA  1 B1AXP6 UNP 9  P 
+ATOM 67  C C   . PRO A 1 9  ? 20.088  0.295   -21.704 1.0 64.07 ? 9  PRO A C   1 B1AXP6 UNP 9  P 
+ATOM 68  C CB  . PRO A 1 9  ? 18.294  -1.442  -22.207 1.0 64.07 ? 9  PRO A CB  1 B1AXP6 UNP 9  P 
+ATOM 69  O O   . PRO A 1 9  ? 19.907  0.483   -20.496 1.0 64.07 ? 9  PRO A O   1 B1AXP6 UNP 9  P 
+ATOM 70  C CG  . PRO A 1 9  ? 18.315  -2.838  -21.587 1.0 64.07 ? 9  PRO A CG  1 B1AXP6 UNP 9  P 
+ATOM 71  C CD  . PRO A 1 9  ? 19.596  -2.839  -20.759 1.0 64.07 ? 9  PRO A CD  1 B1AXP6 UNP 9  P 
+ATOM 72  N N   . LYS A 1 10 ? 20.619  1.220   -22.505 1.0 69.90 ? 10 LYS A N   1 B1AXP6 UNP 10 K 
+ATOM 73  C CA  . LYS A 1 10 ? 20.565  2.636   -22.164 1.0 69.90 ? 10 LYS A CA  1 B1AXP6 UNP 10 K 
+ATOM 74  C C   . LYS A 1 10 ? 19.080  2.985   -22.168 1.0 69.90 ? 10 LYS A C   1 B1AXP6 UNP 10 K 
+ATOM 75  C CB  . LYS A 1 10 ? 21.357  3.485   -23.171 1.0 69.90 ? 10 LYS A CB  1 B1AXP6 UNP 10 K 
+ATOM 76  O O   . LYS A 1 10 ? 18.579  3.505   -23.156 1.0 69.90 ? 10 LYS A O   1 B1AXP6 UNP 10 K 
+ATOM 77  C CG  . LYS A 1 10 ? 22.879  3.401   -22.997 1.0 69.90 ? 10 LYS A CG  1 B1AXP6 UNP 10 K 
+ATOM 78  C CD  . LYS A 1 10 ? 23.550  4.292   -24.053 1.0 69.90 ? 10 LYS A CD  1 B1AXP6 UNP 10 K 
+ATOM 79  C CE  . LYS A 1 10 ? 25.071  4.292   -23.884 1.0 69.90 ? 10 LYS A CE  1 B1AXP6 UNP 10 K 
+ATOM 80  N NZ  . LYS A 1 10 ? 25.726  5.066   -24.968 1.0 69.90 ? 10 LYS A NZ  1 B1AXP6 UNP 10 K 
+ATOM 81  N N   . LEU A 1 11 ? 18.366  2.573   -21.122 1.0 72.51 ? 11 LEU A N   1 B1AXP6 UNP 11 L 
+ATOM 82  C CA  . LEU A 1 11 ? 17.014  3.017   -20.876 1.0 72.51 ? 11 LEU A CA  1 B1AXP6 UNP 11 L 
+ATOM 83  C C   . LEU A 1 11 ? 17.145  4.526   -20.779 1.0 72.51 ? 11 LEU A C   1 B1AXP6 UNP 11 L 
+ATOM 84  C CB  . LEU A 1 11 ? 16.455  2.392   -19.585 1.0 72.51 ? 11 LEU A CB  1 B1AXP6 UNP 11 L 
+ATOM 85  O O   . LEU A 1 11 ? 18.001  5.018   -20.031 1.0 72.51 ? 11 LEU A O   1 B1AXP6 UNP 11 L 
+ATOM 86  C CG  . LEU A 1 11 ? 14.920  2.310   -19.622 1.0 72.51 ? 11 LEU A CG  1 B1AXP6 UNP 11 L 
+ATOM 87  C CD1 . LEU A 1 11 ? 14.481  1.029   -20.329 1.0 72.51 ? 11 LEU A CD1 1 B1AXP6 UNP 11 L 
+ATOM 88  C CD2 . LEU A 1 11 ? 14.324  2.300   -18.215 1.0 72.51 ? 11 LEU A CD2 1 B1AXP6 UNP 11 L 
+ATOM 89  N N   . ASP A 1 12 ? 16.393  5.235   -21.608 1.0 87.01 ? 12 ASP A N   1 B1AXP6 UNP 12 D 
+ATOM 90  C CA  . ASP A 1 12 ? 16.504  6.679   -21.665 1.0 87.01 ? 12 ASP A CA  1 B1AXP6 UNP 12 D 
+ATOM 91  C C   . ASP A 1 12 ? 16.306  7.238   -20.240 1.0 87.01 ? 12 ASP A C   1 B1AXP6 UNP 12 D 
+ATOM 92  C CB  . ASP A 1 12 ? 15.495  7.235   -22.673 1.0 87.01 ? 12 ASP A CB  1 B1AXP6 UNP 12 D 
+ATOM 93  O O   . ASP A 1 12 ? 15.420  6.764   -19.517 1.0 87.01 ? 12 ASP A O   1 B1AXP6 UNP 12 D 
+ATOM 94  C CG  . ASP A 1 12 ? 15.762  8.720   -22.880 1.0 87.01 ? 12 ASP A CG  1 B1AXP6 UNP 12 D 
+ATOM 95  O OD1 . ASP A 1 12 ? 15.405  9.478   -21.954 1.0 87.01 ? 12 ASP A OD1 1 B1AXP6 UNP 12 D 
+ATOM 96  O OD2 . ASP A 1 12 ? 16.437  9.063   -23.872 1.0 87.01 ? 12 ASP A OD2 1 B1AXP6 UNP 12 D 
+ATOM 97  N N   . PRO A 1 13 ? 17.125  8.195   -19.771 1.0 88.59 ? 13 PRO A N   1 B1AXP6 UNP 13 P 
+ATOM 98  C CA  . PRO A 1 13 ? 16.939  8.796   -18.455 1.0 88.59 ? 13 PRO A CA  1 B1AXP6 UNP 13 P 
+ATOM 99  C C   . PRO A 1 13 ? 15.505  9.298   -18.208 1.0 88.59 ? 13 PRO A C   1 B1AXP6 UNP 13 P 
+ATOM 100 C CB  . PRO A 1 13 ? 17.947  9.946   -18.409 1.0 88.59 ? 13 PRO A CB  1 B1AXP6 UNP 13 P 
+ATOM 101 O O   . PRO A 1 13 ? 15.046  9.305   -17.062 1.0 88.59 ? 13 PRO A O   1 B1AXP6 UNP 13 P 
+ATOM 102 C CG  . PRO A 1 13 ? 19.066  9.478   -19.339 1.0 88.59 ? 13 PRO A CG  1 B1AXP6 UNP 13 P 
+ATOM 103 C CD  . PRO A 1 13 ? 18.314  8.717   -20.425 1.0 88.59 ? 13 PRO A CD  1 B1AXP6 UNP 13 P 
+ATOM 104 N N   . GLU A 1 14 ? 14.778  9.706   -19.250 1.0 91.61 ? 14 GLU A N   1 B1AXP6 UNP 14 E 
+ATOM 105 C CA  . GLU A 1 14 ? 13.360  10.054  -19.169 1.0 91.61 ? 14 GLU A CA  1 B1AXP6 UNP 14 E 
+ATOM 106 C C   . GLU A 1 14 ? 12.465  8.838   -18.920 1.0 91.61 ? 14 GLU A C   1 B1AXP6 UNP 14 E 
+ATOM 107 C CB  . GLU A 1 14 ? 12.888  10.761  -20.444 1.0 91.61 ? 14 GLU A CB  1 B1AXP6 UNP 14 E 
+ATOM 108 O O   . GLU A 1 14 ? 11.561  8.911   -18.083 1.0 91.61 ? 14 GLU A O   1 B1AXP6 UNP 14 E 
+ATOM 109 C CG  . GLU A 1 14 ? 13.632  12.076  -20.714 1.0 91.61 ? 14 GLU A CG  1 B1AXP6 UNP 14 E 
+ATOM 110 C CD  . GLU A 1 14 ? 12.862  12.973  -21.693 1.0 91.61 ? 14 GLU A CD  1 B1AXP6 UNP 14 E 
+ATOM 111 O OE1 . GLU A 1 14 ? 12.969  14.207  -21.505 1.0 91.61 ? 14 GLU A OE1 1 B1AXP6 UNP 14 E 
+ATOM 112 O OE2 . GLU A 1 14 ? 12.070  12.450  -22.511 1.0 91.61 ? 14 GLU A OE2 1 B1AXP6 UNP 14 E 
+ATOM 113 N N   . GLU A 1 15 ? 12.726  7.712   -19.582 1.0 91.13 ? 15 GLU A N   1 B1AXP6 UNP 15 E 
+ATOM 114 C CA  . GLU A 1 15 ? 12.009  6.453   -19.359 1.0 91.13 ? 15 GLU A CA  1 B1AXP6 UNP 15 E 
+ATOM 115 C C   . GLU A 1 15 ? 12.270  5.918   -17.945 1.0 91.13 ? 15 GLU A C   1 B1AXP6 UNP 15 E 
+ATOM 116 C CB  . GLU A 1 15 ? 12.403  5.438   -20.440 1.0 91.13 ? 15 GLU A CB  1 B1AXP6 UNP 15 E 
+ATOM 117 O O   . GLU A 1 15 ? 11.326  5.553   -17.240 1.0 91.13 ? 15 GLU A O   1 B1AXP6 UNP 15 E 
+ATOM 118 C CG  . GLU A 1 15 ? 11.534  4.173   -20.372 1.0 91.13 ? 15 GLU A CG  1 B1AXP6 UNP 15 E 
+ATOM 119 C CD  . GLU A 1 15 ? 11.863  3.145   -21.466 1.0 91.13 ? 15 GLU A CD  1 B1AXP6 UNP 15 E 
+ATOM 120 O OE1 . GLU A 1 15 ? 11.132  2.132   -21.518 1.0 91.13 ? 15 GLU A OE1 1 B1AXP6 UNP 15 E 
+ATOM 121 O OE2 . GLU A 1 15 ? 12.861  3.340   -22.197 1.0 91.13 ? 15 GLU A OE2 1 B1AXP6 UNP 15 E 
+ATOM 122 N N   . MET A 1 16 ? 13.520  5.987   -17.467 1.0 90.70 ? 16 MET A N   1 B1AXP6 UNP 16 M 
+ATOM 123 C CA  . MET A 1 16 ? 13.857  5.673   -16.072 1.0 90.70 ? 16 MET A CA  1 B1AXP6 UNP 16 M 
+ATOM 124 C C   . MET A 1 16 ? 13.065  6.549   -15.097 1.0 90.70 ? 16 MET A C   1 B1AXP6 UNP 16 M 
+ATOM 125 C CB  . MET A 1 16 ? 15.358  5.860   -15.804 1.0 90.70 ? 16 MET A CB  1 B1AXP6 UNP 16 M 
+ATOM 126 O O   . MET A 1 16 ? 12.456  6.035   -14.159 1.0 90.70 ? 16 MET A O   1 B1AXP6 UNP 16 M 
+ATOM 127 C CG  . MET A 1 16 ? 16.230  4.770   -16.423 1.0 90.70 ? 16 MET A CG  1 B1AXP6 UNP 16 M 
+ATOM 128 S SD  . MET A 1 16 ? 17.948  4.833   -15.854 1.0 90.70 ? 16 MET A SD  1 B1AXP6 UNP 16 M 
+ATOM 129 C CE  . MET A 1 16 ? 18.535  3.215   -16.422 1.0 90.70 ? 16 MET A CE  1 B1AXP6 UNP 16 M 
+ATOM 130 N N   . LYS A 1 17 ? 13.016  7.868   -15.327 1.0 93.18 ? 17 LYS A N   1 B1AXP6 UNP 17 K 
+ATOM 131 C CA  . LYS A 1 17 ? 12.245  8.796   -14.483 1.0 93.18 ? 17 LYS A CA  1 B1AXP6 UNP 17 K 
+ATOM 132 C C   . LYS A 1 17 ? 10.748  8.486   -14.495 1.0 93.18 ? 17 LYS A C   1 B1AXP6 UNP 17 K 
+ATOM 133 C CB  . LYS A 1 17 ? 12.476  10.240  -14.941 1.0 93.18 ? 17 LYS A CB  1 B1AXP6 UNP 17 K 
+ATOM 134 O O   . LYS A 1 17 ? 10.115  8.601   -13.445 1.0 93.18 ? 17 LYS A O   1 B1AXP6 UNP 17 K 
+ATOM 135 C CG  . LYS A 1 17 ? 13.810  10.811  -14.446 1.0 93.18 ? 17 LYS A CG  1 B1AXP6 UNP 17 K 
+ATOM 136 C CD  . LYS A 1 17 ? 14.038  12.184  -15.090 1.0 93.18 ? 17 LYS A CD  1 B1AXP6 UNP 17 K 
+ATOM 137 C CE  . LYS A 1 17 ? 15.374  12.779  -14.641 1.0 93.18 ? 17 LYS A CE  1 B1AXP6 UNP 17 K 
+ATOM 138 N NZ  . LYS A 1 17 ? 15.645  14.062  -15.339 1.0 93.18 ? 17 LYS A NZ  1 B1AXP6 UNP 17 K 
+ATOM 139 N N   . ARG A 1 18 ? 10.174  8.121   -15.647 1.0 94.54 ? 18 ARG A N   1 B1AXP6 UNP 18 R 
+ATOM 140 C CA  . ARG A 1 18 ? 8.760   7.717   -15.749 1.0 94.54 ? 18 ARG A CA  1 B1AXP6 UNP 18 R 
+ATOM 141 C C   . ARG A 1 18 ? 8.499   6.443   -14.959 1.0 94.54 ? 18 ARG A C   1 B1AXP6 UNP 18 R 
+ATOM 142 C CB  . ARG A 1 18 ? 8.340   7.527   -17.211 1.0 94.54 ? 18 ARG A CB  1 B1AXP6 UNP 18 R 
+ATOM 143 O O   . ARG A 1 18 ? 7.643   6.463   -14.080 1.0 94.54 ? 18 ARG A O   1 B1AXP6 UNP 18 R 
+ATOM 144 C CG  . ARG A 1 18 ? 8.165   8.863   -17.940 1.0 94.54 ? 18 ARG A CG  1 B1AXP6 UNP 18 R 
+ATOM 145 C CD  . ARG A 1 18 ? 7.718   8.596   -19.377 1.0 94.54 ? 18 ARG A CD  1 B1AXP6 UNP 18 R 
+ATOM 146 N NE  . ARG A 1 18 ? 7.704   9.833   -20.179 1.0 94.54 ? 18 ARG A NE  1 B1AXP6 UNP 18 R 
+ATOM 147 N NH1 . ARG A 1 18 ? 6.211   9.133   -21.775 1.0 94.54 ? 18 ARG A NH1 1 B1AXP6 UNP 18 R 
+ATOM 148 N NH2 . ARG A 1 18 ? 7.187   11.133  -21.971 1.0 94.54 ? 18 ARG A NH2 1 B1AXP6 UNP 18 R 
+ATOM 149 C CZ  . ARG A 1 18 ? 7.031   10.029  -21.297 1.0 94.54 ? 18 ARG A CZ  1 B1AXP6 UNP 18 R 
+ATOM 150 N N   . LYS A 1 19 ? 9.307   5.404   -15.174 1.0 94.73 ? 19 LYS A N   1 B1AXP6 UNP 19 K 
+ATOM 151 C CA  . LYS A 1 19 ? 9.197   4.136   -14.446 1.0 94.73 ? 19 LYS A CA  1 B1AXP6 UNP 19 K 
+ATOM 152 C C   . LYS A 1 19 ? 9.329   4.325   -12.935 1.0 94.73 ? 19 LYS A C   1 B1AXP6 UNP 19 K 
+ATOM 153 C CB  . LYS A 1 19 ? 10.244  3.165   -14.998 1.0 94.73 ? 19 LYS A CB  1 B1AXP6 UNP 19 K 
+ATOM 154 O O   . LYS A 1 19 ? 8.496   3.843   -12.184 1.0 94.73 ? 19 LYS A O   1 B1AXP6 UNP 19 K 
+ATOM 155 C CG  . LYS A 1 19 ? 10.085  1.793   -14.338 1.0 94.73 ? 19 LYS A CG  1 B1AXP6 UNP 19 K 
+ATOM 156 C CD  . LYS A 1 19 ? 11.046  0.784   -14.958 1.0 94.73 ? 19 LYS A CD  1 B1AXP6 UNP 19 K 
+ATOM 157 C CE  . LYS A 1 19 ? 10.821  -0.550  -14.249 1.0 94.73 ? 19 LYS A CE  1 B1AXP6 UNP 19 K 
+ATOM 158 N NZ  . LYS A 1 19 ? 11.679  -1.608  -14.829 1.0 94.73 ? 19 LYS A NZ  1 B1AXP6 UNP 19 K 
+ATOM 159 N N   . MET A 1 20 ? 10.306  5.110   -12.476 1.0 95.09 ? 20 MET A N   1 B1AXP6 UNP 20 M 
+ATOM 160 C CA  . MET A 1 20 ? 10.453  5.419   -11.048 1.0 95.09 ? 20 MET A CA  1 B1AXP6 UNP 20 M 
+ATOM 161 C C   . MET A 1 20 ? 9.224   6.138   -10.481 1.0 95.09 ? 20 MET A C   1 B1AXP6 UNP 20 M 
+ATOM 162 C CB  . MET A 1 20 ? 11.687  6.297   -10.814 1.0 95.09 ? 20 MET A CB  1 B1AXP6 UNP 20 M 
+ATOM 163 O O   . MET A 1 20 ? 8.803   5.851   -9.363  1.0 95.09 ? 20 MET A O   1 B1AXP6 UNP 20 M 
+ATOM 164 C CG  . MET A 1 20 ? 13.003  5.539   -10.991 1.0 95.09 ? 20 MET A CG  1 B1AXP6 UNP 20 M 
+ATOM 165 S SD  . MET A 1 20 ? 14.463  6.588   -10.752 1.0 95.09 ? 20 MET A SD  1 B1AXP6 UNP 20 M 
+ATOM 166 C CE  . MET A 1 20 ? 14.557  6.578   -8.941  1.0 95.09 ? 20 MET A CE  1 B1AXP6 UNP 20 M 
+ATOM 167 N N   . ARG A 1 21 ? 8.632   7.077   -11.232 1.0 95.29 ? 21 ARG A N   1 B1AXP6 UNP 21 R 
+ATOM 168 C CA  . ARG A 1 21 ? 7.390   7.746   -10.814 1.0 95.29 ? 21 ARG A CA  1 B1AXP6 UNP 21 R 
+ATOM 169 C C   . ARG A 1 21 ? 6.233   6.756   -10.719 1.0 95.29 ? 21 ARG A C   1 B1AXP6 UNP 21 R 
+ATOM 170 C CB  . ARG A 1 21 ? 7.040   8.890   -11.773 1.0 95.29 ? 21 ARG A CB  1 B1AXP6 UNP 21 R 
+ATOM 171 O O   . ARG A 1 21 ? 5.496   6.805   -9.740  1.0 95.29 ? 21 ARG A O   1 B1AXP6 UNP 21 R 
+ATOM 172 C CG  . ARG A 1 21 ? 7.915   10.127  -11.547 1.0 95.29 ? 21 ARG A CG  1 B1AXP6 UNP 21 R 
+ATOM 173 C CD  . ARG A 1 21 ? 7.642   11.149  -12.654 1.0 95.29 ? 21 ARG A CD  1 B1AXP6 UNP 21 R 
+ATOM 174 N NE  . ARG A 1 21 ? 8.414   12.390  -12.453 1.0 95.29 ? 21 ARG A NE  1 B1AXP6 UNP 21 R 
+ATOM 175 N NH1 . ARG A 1 21 ? 6.786   13.651  -11.429 1.0 95.29 ? 21 ARG A NH1 1 B1AXP6 UNP 21 R 
+ATOM 176 N NH2 . ARG A 1 21 ? 8.789   14.544  -11.817 1.0 95.29 ? 21 ARG A NH2 1 B1AXP6 UNP 21 R 
+ATOM 177 C CZ  . ARG A 1 21 ? 7.992   13.516  -11.903 1.0 95.29 ? 21 ARG A CZ  1 B1AXP6 UNP 21 R 
+ATOM 178 N N   . GLU A 1 22 ? 6.089   5.867   -11.695 1.0 97.19 ? 22 GLU A N   1 B1AXP6 UNP 22 E 
+ATOM 179 C CA  . GLU A 1 22 ? 5.071   4.812   -11.689 1.0 97.19 ? 22 GLU A CA  1 B1AXP6 UNP 22 E 
+ATOM 180 C C   . GLU A 1 22 ? 5.255   3.857   -10.505 1.0 97.19 ? 22 GLU A C   1 B1AXP6 UNP 22 E 
+ATOM 181 C CB  . GLU A 1 22 ? 5.114   4.040   -13.014 1.0 97.19 ? 22 GLU A CB  1 B1AXP6 UNP 22 E 
+ATOM 182 O O   . GLU A 1 22 ? 4.290   3.583   -9.792  1.0 97.19 ? 22 GLU A O   1 B1AXP6 UNP 22 E 
+ATOM 183 C CG  . GLU A 1 22 ? 4.586   4.888   -14.181 1.0 97.19 ? 22 GLU A CG  1 B1AXP6 UNP 22 E 
+ATOM 184 C CD  . GLU A 1 22 ? 4.815   4.244   -15.557 1.0 97.19 ? 22 GLU A CD  1 B1AXP6 UNP 22 E 
+ATOM 185 O OE1 . GLU A 1 22 ? 4.490   4.932   -16.552 1.0 97.19 ? 22 GLU A OE1 1 B1AXP6 UNP 22 E 
+ATOM 186 O OE2 . GLU A 1 22 ? 5.321   3.101   -15.615 1.0 97.19 ? 22 GLU A OE2 1 B1AXP6 UNP 22 E 
+ATOM 187 N N   . ASP A 1 23 ? 6.489   3.435   -10.227 1.0 97.71 ? 23 ASP A N   1 B1AXP6 UNP 23 D 
+ATOM 188 C CA  . ASP A 1 23 ? 6.828   2.570   -9.094  1.0 97.71 ? 23 ASP A CA  1 B1AXP6 UNP 23 D 
+ATOM 189 C C   . ASP A 1 23 ? 6.501   3.246   -7.753  1.0 97.71 ? 23 ASP A C   1 B1AXP6 UNP 23 D 
+ATOM 190 C CB  . ASP A 1 23 ? 8.320   2.187   -9.152  1.0 97.71 ? 23 ASP A CB  1 B1AXP6 UNP 23 D 
+ATOM 191 O O   . ASP A 1 23 ? 5.906   2.626   -6.868  1.0 97.71 ? 23 ASP A O   1 B1AXP6 UNP 23 D 
+ATOM 192 C CG  . ASP A 1 23 ? 8.684   1.186   -10.262 1.0 97.71 ? 23 ASP A CG  1 B1AXP6 UNP 23 D 
+ATOM 193 O OD1 . ASP A 1 23 ? 7.784   0.443   -10.712 1.0 97.71 ? 23 ASP A OD1 1 B1AXP6 UNP 23 D 
+ATOM 194 O OD2 . ASP A 1 23 ? 9.888   1.118   -10.609 1.0 97.71 ? 23 ASP A OD2 1 B1AXP6 UNP 23 D 
+ATOM 195 N N   . VAL A 1 24 ? 6.817   4.538   -7.604  1.0 97.27 ? 24 VAL A N   1 B1AXP6 UNP 24 V 
+ATOM 196 C CA  . VAL A 1 24 ? 6.477   5.317   -6.401  1.0 97.27 ? 24 VAL A CA  1 B1AXP6 UNP 24 V 
+ATOM 197 C C   . VAL A 1 24 ? 4.963   5.434   -6.234  1.0 97.27 ? 24 VAL A C   1 B1AXP6 UNP 24 V 
+ATOM 198 C CB  . VAL A 1 24 ? 7.145   6.706   -6.434  1.0 97.27 ? 24 VAL A CB  1 B1AXP6 UNP 24 V 
+ATOM 199 O O   . VAL A 1 24 ? 4.447   5.186   -5.144  1.0 97.27 ? 24 VAL A O   1 B1AXP6 UNP 24 V 
+ATOM 200 C CG1 . VAL A 1 24 ? 6.615   7.653   -5.346  1.0 97.27 ? 24 VAL A CG1 1 B1AXP6 UNP 24 V 
+ATOM 201 C CG2 . VAL A 1 24 ? 8.657   6.580   -6.210  1.0 97.27 ? 24 VAL A CG2 1 B1AXP6 UNP 24 V 
+ATOM 202 N N   . VAL A 1 25 ? 4.231   5.771   -7.299  1.0 97.52 ? 25 VAL A N   1 B1AXP6 UNP 25 V 
+ATOM 203 C CA  . VAL A 1 25 ? 2.764   5.877   -7.256  1.0 97.52 ? 25 VAL A CA  1 B1AXP6 UNP 25 V 
+ATOM 204 C C   . VAL A 1 25 ? 2.128   4.521   -6.937  1.0 97.52 ? 25 VAL A C   1 B1AXP6 UNP 25 V 
+ATOM 205 C CB  . VAL A 1 25 ? 2.226   6.459   -8.578  1.0 97.52 ? 25 VAL A CB  1 B1AXP6 UNP 25 V 
+ATOM 206 O O   . VAL A 1 25 ? 1.217   4.452   -6.111  1.0 97.52 ? 25 VAL A O   1 B1AXP6 UNP 25 V 
+ATOM 207 C CG1 . VAL A 1 25 ? 0.696   6.387   -8.676  1.0 97.52 ? 25 VAL A CG1 1 B1AXP6 UNP 25 V 
+ATOM 208 C CG2 . VAL A 1 25 ? 2.611   7.940   -8.707  1.0 97.52 ? 25 VAL A CG2 1 B1AXP6 UNP 25 V 
+ATOM 209 N N   . SER A 1 26 ? 2.629   3.441   -7.536  1.0 97.47 ? 26 SER A N   1 B1AXP6 UNP 26 S 
+ATOM 210 C CA  . SER A 1 26 ? 2.189   2.067   -7.275  1.0 97.47 ? 26 SER A CA  1 B1AXP6 UNP 26 S 
+ATOM 211 C C   . SER A 1 26 ? 2.439   1.665   -5.819  1.0 97.47 ? 26 SER A C   1 B1AXP6 UNP 26 S 
+ATOM 212 C CB  . SER A 1 26 ? 2.921   1.124   -8.233  1.0 97.47 ? 26 SER A CB  1 B1AXP6 UNP 26 S 
+ATOM 213 O O   . SER A 1 26 ? 1.542   1.153   -5.147  1.0 97.47 ? 26 SER A O   1 B1AXP6 UNP 26 S 
+ATOM 214 O OG  . SER A 1 26 ? 2.413   -0.189  -8.119  1.0 97.47 ? 26 SER A OG  1 B1AXP6 UNP 26 S 
+ATOM 215 N N   . SER A 1 27 ? 3.620   1.987   -5.289  1.0 97.90 ? 27 SER A N   1 B1AXP6 UNP 27 S 
+ATOM 216 C CA  . SER A 1 27 ? 3.980   1.743   -3.891  1.0 97.90 ? 27 SER A CA  1 B1AXP6 UNP 27 S 
+ATOM 217 C C   . SER A 1 27 ? 3.071   2.507   -2.921  1.0 97.90 ? 27 SER A C   1 B1AXP6 UNP 27 S 
+ATOM 218 C CB  . SER A 1 27 ? 5.447   2.115   -3.680  1.0 97.90 ? 27 SER A CB  1 B1AXP6 UNP 27 S 
+ATOM 219 O O   . SER A 1 27 ? 2.509   1.907   -2.003  1.0 97.90 ? 27 SER A O   1 B1AXP6 UNP 27 S 
+ATOM 220 O OG  . SER A 1 27 ? 5.845   1.755   -2.375  1.0 97.90 ? 27 SER A OG  1 B1AXP6 UNP 27 S 
+ATOM 221 N N   . ILE A 1 28 ? 2.830   3.801   -3.168  1.0 98.00 ? 28 ILE A N   1 B1AXP6 UNP 28 I 
+ATOM 222 C CA  . ILE A 1 28 ? 1.913   4.619   -2.356  1.0 98.00 ? 28 ILE A CA  1 B1AXP6 UNP 28 I 
+ATOM 223 C C   . ILE A 1 28 ? 0.492   4.053   -2.415  1.0 98.00 ? 28 ILE A C   1 B1AXP6 UNP 28 I 
+ATOM 224 C CB  . ILE A 1 28 ? 1.949   6.099   -2.806  1.0 98.00 ? 28 ILE A CB  1 B1AXP6 UNP 28 I 
+ATOM 225 O O   . ILE A 1 28 ? -0.156  3.909   -1.378  1.0 98.00 ? 28 ILE A O   1 B1AXP6 UNP 28 I 
+ATOM 226 C CG1 . ILE A 1 28 ? 3.317   6.731   -2.460  1.0 98.00 ? 28 ILE A CG1 1 B1AXP6 UNP 28 I 
+ATOM 227 C CG2 . ILE A 1 28 ? 0.819   6.916   -2.141  1.0 98.00 ? 28 ILE A CG2 1 B1AXP6 UNP 28 I 
+ATOM 228 C CD1 . ILE A 1 28 ? 3.557   8.086   -3.138  1.0 98.00 ? 28 ILE A CD1 1 B1AXP6 UNP 28 I 
+ATOM 229 N N   . ARG A 1 29 ? 0.000   3.692   -3.606  1.0 98.12 ? 29 ARG A N   1 B1AXP6 UNP 29 R 
+ATOM 230 C CA  . ARG A 1 29 ? -1.329  3.089   -3.772  1.0 98.12 ? 29 ARG A CA  1 B1AXP6 UNP 29 R 
+ATOM 231 C C   . ARG A 1 29 ? -1.455  1.796   -2.967  1.0 98.12 ? 29 ARG A C   1 B1AXP6 UNP 29 R 
+ATOM 232 C CB  . ARG A 1 29 ? -1.595  2.859   -5.266  1.0 98.12 ? 29 ARG A CB  1 B1AXP6 UNP 29 R 
+ATOM 233 O O   . ARG A 1 29 ? -2.430  1.638   -2.236  1.0 98.12 ? 29 ARG A O   1 B1AXP6 UNP 29 R 
+ATOM 234 C CG  . ARG A 1 29 ? -2.985  2.257   -5.511  1.0 98.12 ? 29 ARG A CG  1 B1AXP6 UNP 29 R 
+ATOM 235 C CD  . ARG A 1 29 ? -3.175  1.960   -6.998  1.0 98.12 ? 29 ARG A CD  1 B1AXP6 UNP 29 R 
+ATOM 236 N NE  . ARG A 1 29 ? -4.479  1.317   -7.243  1.0 98.12 ? 29 ARG A NE  1 B1AXP6 UNP 29 R 
+ATOM 237 N NH1 . ARG A 1 29 ? -4.109  0.746   -9.433  1.0 98.12 ? 29 ARG A NH1 1 B1AXP6 UNP 29 R 
+ATOM 238 N NH2 . ARG A 1 29 ? -6.048  0.211   -8.467  1.0 98.12 ? 29 ARG A NH2 1 B1AXP6 UNP 29 R 
+ATOM 239 C CZ  . ARG A 1 29 ? -4.871  0.764   -8.375  1.0 98.12 ? 29 ARG A CZ  1 B1AXP6 UNP 29 R 
+ATOM 240 N N   . ASN A 1 30 ? -0.475  0.901   -3.070  1.0 97.94 ? 30 ASN A N   1 B1AXP6 UNP 30 N 
+ATOM 241 C CA  . ASN A 1 30 ? -0.463  -0.354  -2.321  1.0 97.94 ? 30 ASN A CA  1 B1AXP6 UNP 30 N 
+ATOM 242 C C   . ASN A 1 30 ? -0.438  -0.097  -0.812  1.0 97.94 ? 30 ASN A C   1 B1AXP6 UNP 30 N 
+ATOM 243 C CB  . ASN A 1 30 ? 0.734   -1.204  -2.778  1.0 97.94 ? 30 ASN A CB  1 B1AXP6 UNP 30 N 
+ATOM 244 O O   . ASN A 1 30 ? -1.226  -0.689  -0.078  1.0 97.94 ? 30 ASN A O   1 B1AXP6 UNP 30 N 
+ATOM 245 C CG  . ASN A 1 30 ? 0.531   -1.795  -4.162  1.0 97.94 ? 30 ASN A CG  1 B1AXP6 UNP 30 N 
+ATOM 246 N ND2 . ASN A 1 30 ? 1.598   -2.109  -4.857  1.0 97.94 ? 30 ASN A ND2 1 B1AXP6 UNP 30 N 
+ATOM 247 O OD1 . ASN A 1 30 ? -0.579  -1.999  -4.626  1.0 97.94 ? 30 ASN A OD1 1 B1AXP6 UNP 30 N 
+ATOM 248 N N   . PHE A 1 31 ? 0.393   0.839   -0.350  1.0 98.01 ? 31 PHE A N   1 B1AXP6 UNP 31 F 
+ATOM 249 C CA  . PHE A 1 31 ? 0.440   1.241   1.054   1.0 98.01 ? 31 PHE A CA  1 B1AXP6 UNP 31 F 
+ATOM 250 C C   . PHE A 1 31 ? -0.918  1.745   1.561   1.0 98.01 ? 31 PHE A C   1 B1AXP6 UNP 31 F 
+ATOM 251 C CB  . PHE A 1 31 ? 1.529   2.304   1.229   1.0 98.01 ? 31 PHE A CB  1 B1AXP6 UNP 31 F 
+ATOM 252 O O   . PHE A 1 31 ? -1.389  1.299   2.607   1.0 98.01 ? 31 PHE A O   1 B1AXP6 UNP 31 F 
+ATOM 253 C CG  . PHE A 1 31 ? 1.633   2.807   2.651   1.0 98.01 ? 31 PHE A CG  1 B1AXP6 UNP 31 F 
+ATOM 254 C CD1 . PHE A 1 31 ? 1.062   4.042   3.011   1.0 98.01 ? 31 PHE A CD1 1 B1AXP6 UNP 31 F 
+ATOM 255 C CD2 . PHE A 1 31 ? 2.266   2.014   3.624   1.0 98.01 ? 31 PHE A CD2 1 B1AXP6 UNP 31 F 
+ATOM 256 C CE1 . PHE A 1 31 ? 1.139   4.488   4.343   1.0 98.01 ? 31 PHE A CE1 1 B1AXP6 UNP 31 F 
+ATOM 257 C CE2 . PHE A 1 31 ? 2.340   2.459   4.955   1.0 98.01 ? 31 PHE A CE2 1 B1AXP6 UNP 31 F 
+ATOM 258 C CZ  . PHE A 1 31 ? 1.778   3.697   5.313   1.0 98.01 ? 31 PHE A CZ  1 B1AXP6 UNP 31 F 
+ATOM 259 N N   . LEU A 1 32 ? -1.592  2.616   0.804   1.0 98.27 ? 32 LEU A N   1 B1AXP6 UNP 32 L 
+ATOM 260 C CA  . LEU A 1 32 ? -2.919  3.118   1.168   1.0 98.27 ? 32 LEU A CA  1 B1AXP6 UNP 32 L 
+ATOM 261 C C   . LEU A 1 32 ? -3.968  2.002   1.228   1.0 98.27 ? 32 LEU A C   1 B1AXP6 UNP 32 L 
+ATOM 262 C CB  . LEU A 1 32 ? -3.355  4.209   0.177   1.0 98.27 ? 32 LEU A CB  1 B1AXP6 UNP 32 L 
+ATOM 263 O O   . LEU A 1 32 ? -4.799  2.009   2.134   1.0 98.27 ? 32 LEU A O   1 B1AXP6 UNP 32 L 
+ATOM 264 C CG  . LEU A 1 32 ? -2.570  5.528   0.286   1.0 98.27 ? 32 LEU A CG  1 B1AXP6 UNP 32 L 
+ATOM 265 C CD1 . LEU A 1 32 ? -3.032  6.472   -0.825  1.0 98.27 ? 32 LEU A CD1 1 B1AXP6 UNP 32 L 
+ATOM 266 C CD2 . LEU A 1 32 ? -2.780  6.224   1.632   1.0 98.27 ? 32 LEU A CD2 1 B1AXP6 UNP 32 L 
+ATOM 267 N N   . ILE A 1 33 ? -3.912  1.027   0.315   1.0 98.14 ? 33 ILE A N   1 B1AXP6 UNP 33 I 
+ATOM 268 C CA  . ILE A 1 33 ? -4.788  -0.154  0.352   1.0 98.14 ? 33 ILE A CA  1 B1AXP6 UNP 33 I 
+ATOM 269 C C   . ILE A 1 33 ? -4.540  -0.960  1.632   1.0 98.14 ? 33 ILE A C   1 B1AXP6 UNP 33 I 
+ATOM 270 C CB  . ILE A 1 33 ? -4.613  -1.014  -0.921  1.0 98.14 ? 33 ILE A CB  1 B1AXP6 UNP 33 I 
+ATOM 271 O O   . ILE A 1 33 ? -5.499  -1.302  2.323   1.0 98.14 ? 33 ILE A O   1 B1AXP6 UNP 33 I 
+ATOM 272 C CG1 . ILE A 1 33 ? -5.168  -0.260  -2.152  1.0 98.14 ? 33 ILE A CG1 1 B1AXP6 UNP 33 I 
+ATOM 273 C CG2 . ILE A 1 33 ? -5.325  -2.374  -0.778  1.0 98.14 ? 33 ILE A CG2 1 B1AXP6 UNP 33 I 
+ATOM 274 C CD1 . ILE A 1 33 ? -4.731  -0.862  -3.494  1.0 98.14 ? 33 ILE A CD1 1 B1AXP6 UNP 33 I 
+ATOM 275 N N   . TYR A 1 34 ? -3.280  -1.214  1.996   1.0 98.01 ? 34 TYR A N   1 B1AXP6 UNP 34 Y 
+ATOM 276 C CA  . TYR A 1 34 ? -2.953  -1.915  3.241   1.0 98.01 ? 34 TYR A CA  1 B1AXP6 UNP 34 Y 
+ATOM 277 C C   . TYR A 1 34 ? -3.450  -1.163  4.479   1.0 98.01 ? 34 TYR A C   1 B1AXP6 UNP 34 Y 
+ATOM 278 C CB  . TYR A 1 34 ? -1.442  -2.159  3.343   1.0 98.01 ? 34 TYR A CB  1 B1AXP6 UNP 34 Y 
+ATOM 279 O O   . TYR A 1 34 ? -4.040  -1.776  5.369   1.0 98.01 ? 34 TYR A O   1 B1AXP6 UNP 34 Y 
+ATOM 280 C CG  . TYR A 1 34 ? -0.927  -3.250  2.428   1.0 98.01 ? 34 TYR A CG  1 B1AXP6 UNP 34 Y 
+ATOM 281 C CD1 . TYR A 1 34 ? -1.389  -4.570  2.591   1.0 98.01 ? 34 TYR A CD1 1 B1AXP6 UNP 34 Y 
+ATOM 282 C CD2 . TYR A 1 34 ? 0.034   -2.961  1.441   1.0 98.01 ? 34 TYR A CD2 1 B1AXP6 UNP 34 Y 
+ATOM 283 C CE1 . TYR A 1 34 ? -0.912  -5.592  1.750   1.0 98.01 ? 34 TYR A CE1 1 B1AXP6 UNP 34 Y 
+ATOM 284 C CE2 . TYR A 1 34 ? 0.508   -3.978  0.591   1.0 98.01 ? 34 TYR A CE2 1 B1AXP6 UNP 34 Y 
+ATOM 285 O OH  . TYR A 1 34 ? 0.486   -6.291  -0.059  1.0 98.01 ? 34 TYR A OH  1 B1AXP6 UNP 34 Y 
+ATOM 286 C CZ  . TYR A 1 34 ? 0.032   -5.297  0.747   1.0 98.01 ? 34 TYR A CZ  1 B1AXP6 UNP 34 Y 
+ATOM 287 N N   . VAL A 1 35 ? -3.275  0.161   4.530   1.0 98.33 ? 35 VAL A N   1 B1AXP6 UNP 35 V 
+ATOM 288 C CA  . VAL A 1 35 ? -3.787  0.991   5.632   1.0 98.33 ? 35 VAL A CA  1 B1AXP6 UNP 35 V 
+ATOM 289 C C   . VAL A 1 35 ? -5.315  0.950   5.688   1.0 98.33 ? 35 VAL A C   1 B1AXP6 UNP 35 V 
+ATOM 290 C CB  . VAL A 1 35 ? -3.274  2.440   5.515   1.0 98.33 ? 35 VAL A CB  1 B1AXP6 UNP 35 V 
+ATOM 291 O O   . VAL A 1 35 ? -5.878  0.810   6.773   1.0 98.33 ? 35 VAL A O   1 B1AXP6 UNP 35 V 
+ATOM 292 C CG1 . VAL A 1 35 ? -3.933  3.381   6.537   1.0 98.33 ? 35 VAL A CG1 1 B1AXP6 UNP 35 V 
+ATOM 293 C CG2 . VAL A 1 35 ? -1.761  2.500   5.763   1.0 98.33 ? 35 VAL A CG2 1 B1AXP6 UNP 35 V 
+ATOM 294 N N   . ALA A 1 36 ? -5.997  1.038   4.545   1.0 98.25 ? 36 ALA A N   1 B1AXP6 UNP 36 A 
+ATOM 295 C CA  . ALA A 1 36 ? -7.453  0.962   4.481   1.0 98.25 ? 36 ALA A CA  1 B1AXP6 UNP 36 A 
+ATOM 296 C C   . ALA A 1 36 ? -7.965  -0.397  4.977   1.0 98.25 ? 36 ALA A C   1 B1AXP6 UNP 36 A 
+ATOM 297 C CB  . ALA A 1 36 ? -7.906  1.251   3.046   1.0 98.25 ? 36 ALA A CB  1 B1AXP6 UNP 36 A 
+ATOM 298 O O   . ALA A 1 36 ? -8.860  -0.436  5.821   1.0 98.25 ? 36 ALA A O   1 B1AXP6 UNP 36 A 
+ATOM 299 N N   . LEU A 1 37 ? -7.355  -1.499  4.531   1.0 98.06 ? 37 LEU A N   1 B1AXP6 UNP 37 L 
+ATOM 300 C CA  . LEU A 1 37 ? -7.675  -2.840  5.023   1.0 98.06 ? 37 LEU A CA  1 B1AXP6 UNP 37 L 
+ATOM 301 C C   . LEU A 1 37 ? -7.458  -2.932  6.532   1.0 98.06 ? 37 LEU A C   1 B1AXP6 UNP 37 L 
+ATOM 302 C CB  . LEU A 1 37 ? -6.832  -3.892  4.283   1.0 98.06 ? 37 LEU A CB  1 B1AXP6 UNP 37 L 
+ATOM 303 O O   . LEU A 1 37 ? -8.378  -3.309  7.249   1.0 98.06 ? 37 LEU A O   1 B1AXP6 UNP 37 L 
+ATOM 304 C CG  . LEU A 1 37 ? -7.261  -4.136  2.827   1.0 98.06 ? 37 LEU A CG  1 B1AXP6 UNP 37 L 
+ATOM 305 C CD1 . LEU A 1 37 ? -6.253  -5.068  2.155   1.0 98.06 ? 37 LEU A CD1 1 B1AXP6 UNP 37 L 
+ATOM 306 C CD2 . LEU A 1 37 ? -8.648  -4.779  2.733   1.0 98.06 ? 37 LEU A CD2 1 B1AXP6 UNP 37 L 
+ATOM 307 N N   . LEU A 1 38 ? -6.299  -2.493  7.032   1.0 97.64 ? 38 LEU A N   1 B1AXP6 UNP 38 L 
+ATOM 308 C CA  . LEU A 1 38 ? -5.991  -2.505  8.463   1.0 97.64 ? 38 LEU A CA  1 B1AXP6 UNP 38 L 
+ATOM 309 C C   . LEU A 1 38 ? -7.021  -1.720  9.293   1.0 97.64 ? 38 LEU A C   1 B1AXP6 UNP 38 L 
+ATOM 310 C CB  . LEU A 1 38 ? -4.571  -1.941  8.656   1.0 97.64 ? 38 LEU A CB  1 B1AXP6 UNP 38 L 
+ATOM 311 O O   . LEU A 1 38 ? -7.360  -2.130  10.400  1.0 97.64 ? 38 LEU A O   1 B1AXP6 UNP 38 L 
+ATOM 312 C CG  . LEU A 1 38 ? -4.052  -2.019  10.103  1.0 97.64 ? 38 LEU A CG  1 B1AXP6 UNP 38 L 
+ATOM 313 C CD1 . LEU A 1 38 ? -3.879  -3.467  10.568  1.0 97.64 ? 38 LEU A CD1 1 B1AXP6 UNP 38 L 
+ATOM 314 C CD2 . LEU A 1 38 ? -2.700  -1.313  10.199  1.0 97.64 ? 38 LEU A CD2 1 B1AXP6 UNP 38 L 
+ATOM 315 N N   . ARG A 1 39 ? -7.539  -0.606  8.763   1.0 97.04 ? 39 ARG A N   1 B1AXP6 UNP 39 R 
+ATOM 316 C CA  . ARG A 1 39 ? -8.579  0.205   9.416   1.0 97.04 ? 39 ARG A CA  1 B1AXP6 UNP 39 R 
+ATOM 317 C C   . ARG A 1 39 ? -9.958  -0.451  9.384   1.0 97.04 ? 39 ARG A C   1 B1AXP6 UNP 39 R 
+ATOM 318 C CB  . ARG A 1 39 ? -8.643  1.588   8.750   1.0 97.04 ? 39 ARG A CB  1 B1AXP6 UNP 39 R 
+ATOM 319 O O   . ARG A 1 39 ? -10.714 -0.292  10.340  1.0 97.04 ? 39 ARG A O   1 B1AXP6 UNP 39 R 
+ATOM 320 C CG  . ARG A 1 39 ? -7.431  2.479   9.055   1.0 97.04 ? 39 ARG A CG  1 B1AXP6 UNP 39 R 
+ATOM 321 C CD  . ARG A 1 39 ? -7.426  2.964   10.505  1.0 97.04 ? 39 ARG A CD  1 B1AXP6 UNP 39 R 
+ATOM 322 N NE  . ARG A 1 39 ? -6.346  3.942   10.727  1.0 97.04 ? 39 ARG A NE  1 B1AXP6 UNP 39 R 
+ATOM 323 N NH1 . ARG A 1 39 ? -6.988  4.613   12.824  1.0 97.04 ? 39 ARG A NH1 1 B1AXP6 UNP 39 R 
+ATOM 324 N NH2 . ARG A 1 39 ? -5.198  5.541   11.868  1.0 97.04 ? 39 ARG A NH2 1 B1AXP6 UNP 39 R 
+ATOM 325 C CZ  . ARG A 1 39 ? -6.183  4.691   11.801  1.0 97.04 ? 39 ARG A CZ  1 B1AXP6 UNP 39 R 
+ATOM 326 N N   . VAL A 1 40 ? -10.289 -1.166  8.313   1.0 96.95 ? 40 VAL A N   1 B1AXP6 UNP 40 V 
+ATOM 327 C CA  . VAL A 1 40 ? -11.598 -1.811  8.133   1.0 96.95 ? 40 VAL A CA  1 B1AXP6 UNP 40 V 
+ATOM 328 C C   . VAL A 1 40 ? -11.680 -3.149  8.877   1.0 96.95 ? 40 VAL A C   1 B1AXP6 UNP 40 V 
+ATOM 329 C CB  . VAL A 1 40 ? -11.908 -1.949  6.630   1.0 96.95 ? 40 VAL A CB  1 B1AXP6 UNP 40 V 
+ATOM 330 O O   . VAL A 1 40 ? -12.734 -3.468  9.428   1.0 96.95 ? 40 VAL A O   1 B1AXP6 UNP 40 V 
+ATOM 331 C CG1 . VAL A 1 40 ? -13.177 -2.760  6.369   1.0 96.95 ? 40 VAL A CG1 1 B1AXP6 UNP 40 V 
+ATOM 332 C CG2 . VAL A 1 40 ? -12.131 -0.571  5.990   1.0 96.95 ? 40 VAL A CG2 1 B1AXP6 UNP 40 V 
+ATOM 333 N N   . THR A 1 41 ? -10.578 -3.898  8.972   1.0 97.33 ? 41 THR A N   1 B1AXP6 UNP 41 T 
+ATOM 334 C CA  . THR A 1 41 ? -10.501 -5.195  9.666   1.0 97.33 ? 41 THR A CA  1 B1AXP6 UNP 41 T 
+ATOM 335 C C   . THR A 1 41 ? -11.141 -5.201  11.061  1.0 97.33 ? 41 THR A C   1 B1AXP6 UNP 41 T 
+ATOM 336 C CB  . THR A 1 41 ? -9.049  -5.694  9.737   1.0 97.33 ? 41 THR A CB  1 B1AXP6 UNP 41 T 
+ATOM 337 O O   . THR A 1 41 ? -12.029 -6.024  11.274  1.0 97.33 ? 41 THR A O   1 B1AXP6 UNP 41 T 
+ATOM 338 C CG2 . THR A 1 41 ? -8.901  -7.032  10.460  1.0 97.33 ? 41 THR A CG2 1 B1AXP6 UNP 41 T 
+ATOM 339 O OG1 . THR A 1 41 ? -8.581  -5.917  8.432   1.0 97.33 ? 41 THR A OG1 1 B1AXP6 UNP 41 T 
+ATOM 340 N N   . PRO A 1 42 ? -10.800 -4.307  12.014  1.0 96.38 ? 42 PRO A N   1 B1AXP6 UNP 42 P 
+ATOM 341 C CA  . PRO A 1 42 ? -11.413 -4.334  13.345  1.0 96.38 ? 42 PRO A CA  1 B1AXP6 UNP 42 P 
+ATOM 342 C C   . PRO A 1 42 ? -12.922 -4.065  13.317  1.0 96.38 ? 42 PRO A C   1 B1AXP6 UNP 42 P 
+ATOM 343 C CB  . PRO A 1 42 ? -10.674 -3.265  14.157  1.0 96.38 ? 42 PRO A CB  1 B1AXP6 UNP 42 P 
+ATOM 344 O O   . PRO A 1 42 ? -13.649 -4.574  14.165  1.0 96.38 ? 42 PRO A O   1 B1AXP6 UNP 42 P 
+ATOM 345 C CG  . PRO A 1 42 ? -10.157 -2.296  13.096  1.0 96.38 ? 42 PRO A CG  1 B1AXP6 UNP 42 P 
+ATOM 346 C CD  . PRO A 1 42 ? -9.822  -3.232  11.940  1.0 96.38 ? 42 PRO A CD  1 B1AXP6 UNP 42 P 
+ATOM 347 N N   . TYR A 1 43 ? -13.414 -3.293  12.343  1.0 95.60 ? 43 TYR A N   1 B1AXP6 UNP 43 Y 
+ATOM 348 C CA  . TYR A 1 43 ? -14.845 -3.035  12.194  1.0 95.60 ? 43 TYR A CA  1 B1AXP6 UNP 43 Y 
+ATOM 349 C C   . TYR A 1 43 ? -15.589 -4.282  11.703  1.0 95.60 ? 43 TYR A C   1 B1AXP6 UNP 43 Y 
+ATOM 350 C CB  . TYR A 1 43 ? -15.054 -1.849  11.245  1.0 95.60 ? 43 TYR A CB  1 B1AXP6 UNP 43 Y 
+ATOM 351 O O   . TYR A 1 43 ? -16.667 -4.596  12.204  1.0 95.60 ? 43 TYR A O   1 B1AXP6 UNP 43 Y 
+ATOM 352 C CG  . TYR A 1 43 ? -16.411 -1.197  11.406  1.0 95.60 ? 43 TYR A CG  1 B1AXP6 UNP 43 Y 
+ATOM 353 C CD1 . TYR A 1 43 ? -17.528 -1.687  10.703  1.0 95.60 ? 43 TYR A CD1 1 B1AXP6 UNP 43 Y 
+ATOM 354 C CD2 . TYR A 1 43 ? -16.553 -0.105  12.284  1.0 95.60 ? 43 TYR A CD2 1 B1AXP6 UNP 43 Y 
+ATOM 355 C CE1 . TYR A 1 43 ? -18.786 -1.077  10.872  1.0 95.60 ? 43 TYR A CE1 1 B1AXP6 UNP 43 Y 
+ATOM 356 C CE2 . TYR A 1 43 ? -17.808 0.509   12.453  1.0 95.60 ? 43 TYR A CE2 1 B1AXP6 UNP 43 Y 
+ATOM 357 O OH  . TYR A 1 43 ? -20.144 0.606   11.896  1.0 95.60 ? 43 TYR A OH  1 B1AXP6 UNP 43 Y 
+ATOM 358 C CZ  . TYR A 1 43 ? -18.927 0.021   11.744  1.0 95.60 ? 43 TYR A CZ  1 B1AXP6 UNP 43 Y 
+ATOM 359 N N   . ILE A 1 44 ? -14.993 -5.016  10.757  1.0 94.88 ? 44 ILE A N   1 B1AXP6 UNP 44 I 
+ATOM 360 C CA  . ILE A 1 44 ? -15.517 -6.306  10.292  1.0 94.88 ? 44 ILE A CA  1 B1AXP6 UNP 44 I 
+ATOM 361 C C   . ILE A 1 44 ? -15.508 -7.322  11.437  1.0 94.88 ? 44 ILE A C   1 B1AXP6 UNP 44 I 
+ATOM 362 C CB  . ILE A 1 44 ? -14.736 -6.817  9.059   1.0 94.88 ? 44 ILE A CB  1 B1AXP6 UNP 44 I 
+ATOM 363 O O   . ILE A 1 44 ? -16.532 -7.955  11.671  1.0 94.88 ? 44 ILE A O   1 B1AXP6 UNP 44 I 
+ATOM 364 C CG1 . ILE A 1 44 ? -14.955 -5.861  7.864   1.0 94.88 ? 44 ILE A CG1 1 B1AXP6 UNP 44 I 
+ATOM 365 C CG2 . ILE A 1 44 ? -15.180 -8.246  8.685   1.0 94.88 ? 44 ILE A CG2 1 B1AXP6 UNP 44 I 
+ATOM 366 C CD1 . ILE A 1 44 ? -14.146 -6.229  6.613   1.0 94.88 ? 44 ILE A CD1 1 B1AXP6 UNP 44 I 
+ATOM 367 N N   . LEU A 1 45 ? -14.400 -7.434  12.179  1.0 96.04 ? 45 LEU A N   1 B1AXP6 UNP 45 L 
+ATOM 368 C CA  . LEU A 1 45 ? -14.287 -8.350  13.319  1.0 96.04 ? 45 LEU A CA  1 B1AXP6 UNP 45 L 
+ATOM 369 C C   . LEU A 1 45 ? -15.340 -8.047  14.389  1.0 96.04 ? 45 LEU A C   1 B1AXP6 UNP 45 L 
+ATOM 370 C CB  . LEU A 1 45 ? -12.869 -8.290  13.913  1.0 96.04 ? 45 LEU A CB  1 B1AXP6 UNP 45 L 
+ATOM 371 O O   . LEU A 1 45 ? -16.100 -8.932  14.755  1.0 96.04 ? 45 LEU A O   1 B1AXP6 UNP 45 L 
+ATOM 372 C CG  . LEU A 1 45 ? -11.765 -8.878  13.016  1.0 96.04 ? 45 LEU A CG  1 B1AXP6 UNP 45 L 
+ATOM 373 C CD1 . LEU A 1 45 ? -10.404 -8.652  13.678  1.0 96.04 ? 45 LEU A CD1 1 B1AXP6 UNP 45 L 
+ATOM 374 C CD2 . LEU A 1 45 ? -11.942 -10.375 12.766  1.0 96.04 ? 45 LEU A CD2 1 B1AXP6 UNP 45 L 
+ATOM 375 N N   . LYS A 1 46 ? -15.486 -6.777  14.793  1.0 95.71 ? 46 LYS A N   1 B1AXP6 UNP 46 K 
+ATOM 376 C CA  . LYS A 1 46 ? -16.511 -6.369  15.766  1.0 95.71 ? 46 LYS A CA  1 B1AXP6 UNP 46 K 
+ATOM 377 C C   . LYS A 1 46 ? -17.933 -6.684  15.292  1.0 95.71 ? 46 LYS A C   1 B1AXP6 UNP 46 K 
+ATOM 378 C CB  . LYS A 1 46 ? -16.344 -4.871  16.061  1.0 95.71 ? 46 LYS A CB  1 B1AXP6 UNP 46 K 
+ATOM 379 O O   . LYS A 1 46 ? -18.799 -6.990  16.105  1.0 95.71 ? 46 LYS A O   1 B1AXP6 UNP 46 K 
+ATOM 380 C CG  . LYS A 1 46 ? -17.287 -4.416  17.182  1.0 95.71 ? 46 LYS A CG  1 B1AXP6 UNP 46 K 
+ATOM 381 C CD  . LYS A 1 46 ? -17.086 -2.941  17.527  1.0 95.71 ? 46 LYS A CD  1 B1AXP6 UNP 46 K 
+ATOM 382 C CE  . LYS A 1 46 ? -18.050 -2.596  18.667  1.0 95.71 ? 46 LYS A CE  1 B1AXP6 UNP 46 K 
+ATOM 383 N NZ  . LYS A 1 46 ? -17.923 -1.182  19.091  1.0 95.71 ? 46 LYS A NZ  1 B1AXP6 UNP 46 K 
+ATOM 384 N N   . LYS A 1 47 ? -18.194 -6.567  13.987  1.0 94.89 ? 47 LYS A N   1 B1AXP6 UNP 47 K 
+ATOM 385 C CA  . LYS A 1 47 ? -19.498 -6.909  13.414  1.0 94.89 ? 47 LYS A CA  1 B1AXP6 UNP 47 K 
+ATOM 386 C C   . LYS A 1 47 ? -19.735 -8.420  13.426  1.0 94.89 ? 47 LYS A C   1 B1AXP6 UNP 47 K 
+ATOM 387 C CB  . LYS A 1 47 ? -19.622 -6.307  12.009  1.0 94.89 ? 47 LYS A CB  1 B1AXP6 UNP 47 K 
+ATOM 388 O O   . LYS A 1 47 ? -20.858 -8.814  13.696  1.0 94.89 ? 47 LYS A O   1 B1AXP6 UNP 47 K 
+ATOM 389 C CG  . LYS A 1 47 ? -21.050 -6.461  11.470  1.0 94.89 ? 47 LYS A CG  1 B1AXP6 UNP 47 K 
+ATOM 390 C CD  . LYS A 1 47 ? -21.191 -5.821  10.088  1.0 94.89 ? 47 LYS A CD  1 B1AXP6 UNP 47 K 
+ATOM 391 C CE  . LYS A 1 47 ? -22.634 -6.014  9.612   1.0 94.89 ? 47 LYS A CE  1 B1AXP6 UNP 47 K 
+ATOM 392 N NZ  . LYS A 1 47 ? -22.835 -5.493  8.238   1.0 94.89 ? 47 LYS A NZ  1 B1AXP6 UNP 47 K 
+ATOM 393 N N   . LEU A 1 48 ? -18.713 -9.231  13.147  1.0 95.05 ? 48 LEU A N   1 B1AXP6 UNP 48 L 
+ATOM 394 C CA  . LEU A 1 48 ? -18.799 -10.694 13.205  1.0 95.05 ? 48 LEU A CA  1 B1AXP6 UNP 48 L 
+ATOM 395 C C   . LEU A 1 48 ? -18.974 -11.202 14.640  1.0 95.05 ? 48 LEU A C   1 B1AXP6 UNP 48 L 
+ATOM 396 C CB  . LEU A 1 48 ? -17.557 -11.326 12.553  1.0 95.05 ? 48 LEU A CB  1 B1AXP6 UNP 48 L 
+ATOM 397 O O   . LEU A 1 48 ? -19.808 -12.067 14.845  1.0 95.05 ? 48 LEU A O   1 B1AXP6 UNP 48 L 
+ATOM 398 C CG  . LEU A 1 48 ? -17.482 -11.160 11.026  1.0 95.05 ? 48 LEU A CG  1 B1AXP6 UNP 48 L 
+ATOM 399 C CD1 . LEU A 1 48 ? -16.092 -11.563 10.532  1.0 95.05 ? 48 LEU A CD1 1 B1AXP6 UNP 48 L 
+ATOM 400 C CD2 . LEU A 1 48 ? -18.512 -12.023 10.292  1.0 95.05 ? 48 LEU A CD2 1 B1AXP6 UNP 48 L 
+ATOM 401 N N   . ASP A 1 49 ? -18.276 -10.624 15.620  1.0 93.19 ? 49 ASP A N   1 B1AXP6 UNP 49 D 
+ATOM 402 C CA  . ASP A 1 49 ? -18.450 -10.968 17.043  1.0 93.19 ? 49 ASP A CA  1 B1AXP6 UNP 49 D 
+ATOM 403 C C   . ASP A 1 49 ? -19.847 -10.603 17.581  1.0 93.19 ? 49 ASP A C   1 B1AXP6 UNP 49 D 
+ATOM 404 C CB  . ASP A 1 49 ? -17.402 -10.223 17.892  1.0 93.19 ? 49 ASP A CB  1 B1AXP6 UNP 49 D 
+ATOM 405 O O   . ASP A 1 49 ? -20.279 -11.114 18.610  1.0 93.19 ? 49 ASP A O   1 B1AXP6 UNP 49 D 
+ATOM 406 C CG  . ASP A 1 49 ? -15.957 -10.705 17.725  1.0 93.19 ? 49 ASP A CG  1 B1AXP6 UNP 49 D 
+ATOM 407 O OD1 . ASP A 1 49 ? -15.744 -11.871 17.326  1.0 93.19 ? 49 ASP A OD1 1 B1AXP6 UNP 49 D 
+ATOM 408 O OD2 . ASP A 1 49 ? -15.059 -9.881  18.023  1.0 93.19 ? 49 ASP A OD2 1 B1AXP6 UNP 49 D 
+ATOM 409 N N   . SER A 1 50 ? -20.544 -9.675  16.917  1.0 91.12 ? 50 SER A N   1 B1AXP6 UNP 50 S 
+ATOM 410 C CA  . SER A 1 50 ? -21.894 -9.238  17.284  1.0 91.12 ? 50 SER A CA  1 B1AXP6 UNP 50 S 
+ATOM 411 C C   . SER A 1 50 ? -23.010 -10.032 16.585  1.0 91.12 ? 50 SER A C   1 B1AXP6 UNP 50 S 
+ATOM 412 C CB  . SER A 1 50 ? -22.031 -7.741  16.991  1.0 91.12 ? 50 SER A CB  1 B1AXP6 UNP 50 S 
+ATOM 413 O O   . SER A 1 50 ? -24.180 -9.703  16.806  1.0 91.12 ? 50 SER A O   1 B1AXP6 UNP 50 S 
+ATOM 414 O OG  . SER A 1 50 ? -23.267 -7.240  17.471  1.0 91.12 ? 50 SER A OG  1 B1AXP6 UNP 50 S 
+ATOM 415 N N   . ILE A 1 51 ? -22.673 -10.992 15.715  1.0 83.70 ? 51 ILE A N   1 B1AXP6 UNP 51 I 
+ATOM 416 C CA  . ILE A 1 51 ? -23.615 -11.891 15.023  1.0 83.70 ? 51 ILE A CA  1 B1AXP6 UNP 51 I 
+ATOM 417 C C   . ILE A 1 51 ? -23.642 -13.225 15.763  1.0 83.70 ? 51 ILE A C   1 B1AXP6 UNP 51 I 
+ATOM 418 C CB  . ILE A 1 51 ? -23.222 -12.046 13.535  1.0 83.70 ? 51 ILE A CB  1 B1AXP6 UNP 51 I 
+ATOM 419 O O   . ILE A 1 51 ? -24.768 -13.698 16.032  1.0 83.70 ? 51 ILE A O   1 B1AXP6 UNP 51 I 
+ATOM 420 C CG1 . ILE A 1 51 ? -23.439 -10.720 12.772  1.0 83.70 ? 51 ILE A CG1 1 B1AXP6 UNP 51 I 
+ATOM 421 C CG2 . ILE A 1 51 ? -24.048 -13.162 12.868  1.0 83.70 ? 51 ILE A CG2 1 B1AXP6 UNP 51 I 
+ATOM 422 C CD1 . ILE A 1 51 ? -22.757 -10.676 11.397  1.0 83.70 ? 51 ILE A CD1 1 B1AXP6 UNP 51 I 
+ATOM 423 O OXT . ILE A 1 51 ? -22.538 -13.752 16.000  1.0 83.70 ? 51 ILE A OXT 1 B1AXP6 UNP 51 I 
+#
